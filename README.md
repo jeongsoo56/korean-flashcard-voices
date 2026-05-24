@@ -6,7 +6,8 @@ Public WebM/Opus Korean audio files for flashcard study.
 
 - Open `INDEX.md` on GitHub and tap a `Raw download` link.
 - Each file is a small `.webm` audio file and should download or play directly on mobile browsers.
-- Folder pattern: `voices/lesson_01/001_ko.webm`.
+- Folder pattern: `voices/lesson_01/001_??_ko.webm`.
+- Filename pattern: `{card-number}_{korean-word}_ko.webm`.
 
 ## Contents
 
