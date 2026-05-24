@@ -1,0 +1,336 @@
+물론이에요. **1과부터 9과까지** 복사/붙여넣기 편하게 한 번에 정리했어요.
+형식은 **베트남어 - 한국어**입니다.
+
+```text
+[1과]
+Quốc gia - 나라
+Nghề nghiệp - 직업
+Hàn Quốc - 한국
+người - 사람
+Canada - 캐나다
+Việt Nam - 베트남
+Mỹ - 미국
+Pháp - 프랑스
+Thái Lan - 태국
+Indonesia - 인도네시아
+Trung Quốc - 중국
+Nhật Bản - 일본
+Nga - 러시아
+Kenya - 케냐
+nhân viên công ty - 회사원
+sinh viên đại học - 대학생
+bác sĩ - 의사
+cảnh sát - 경찰
+giáo viên - 선생님
+ca sĩ - 가수
+đầu bếp - 요리사
+vâng / đúng - 네
+không - 아니요
+tôi - 나
+mũ - 모자
+sách - 책
+vở - 공책
+hanbok - 한복
+cà phê - 커피
+chị gái - 언니
+em - 동생
+ai - 누구
+bạn - 친구
+anh/chị - 씨
+của tôi - 제
+bố - 아버지
+mẹ - 어머니
+tên - 이름
+học sinh - 학생
+tự giới thiệu - 자기소개
+
+[2과]
+Số Hán Hàn - 한자어
+Số - 수
+không (0) - 영/공
+một (1) - 일
+hai (2) - 이
+ba (3) - 삼
+bốn (4) - 사
+năm (5) - 오
+sáu (6) - 육
+bảy (7) - 칠
+tám (8) - 팔
+chín (9) - 구
+mười (10) - 십
+mười một (11) - 십일
+mười hai (12) - 십이
+mười ba (13) - 십삼
+mười bốn (14) - 십사
+mười lăm (15) - 십오
+mười sáu (16) - 십육
+mười bảy (17) - 십칠
+mười tám (18) - 십팔
+mười chín (19) - 십구
+hai mươi (20) - 이십
+ba mươi (30) - 삼십
+bốn mươi (40) - 사십
+năm mươi (50) - 오십
+sáu mươi (60) - 육십
+bảy mươi (70) - 칠십
+tám mươi (80) - 팔십
+chín mươi (90) - 구십
+một trăm (100) - 백
+tầng - 층
+tháng - 월
+trang - 쪽
+số - 번
+phòng, nhà - 호
+won (tiền) - 원
+bao nhiêu - 얼마
+số điện thoại - 전화번호
+quán cà phê - 카페
+nhà hàng - 식당
+rạp chiếu phim - 영화관
+phòng karaoke - 노래방
+quán net - PC방
+tầng hầm - 지하
+anh - 형
+lớp học - 교실
+nước - 물
+nước ép - 주스
+máy tính - 컴퓨터
+tivi - 텔레비전
+đàn ông - 남자
+ghế - 의자
+đúng - 맞다
+hai - 두
+cái gì / loại gì - 무슨
+Học viện Sejong - 세종학당
+email - 이메일
+địa chỉ - 주소
+
+[3과]
+đồ vật - 물건
+bàn - 책상
+túi / cặp - 가방
+hộp bút - 필통
+đồng hồ - 시계
+phía trước - 앞
+phía sau - 뒤
+phía trên - 위
+phía dưới - 아래 / 밑
+bên cạnh - 옆
+bên phải - 오른쪽
+bên trái - 왼쪽
+ở giữa - 사이
+nhà - 집
+bên trong - 안
+bên ngoài - 밖
+ở đâu - 어디
+điện thoại (di động) - 핸드폰
+trường học - 학교
+bảng (đen) - 칠판
+đàn piano - 피아노
+vậy thì / thế thì - 그럼
+bút - 펜
+ô - 우산
+phòng - 방
+cái gì - 무엇
+giường - 침대
+
+[4과]
+ăn - 먹다 (먹어요)
+đọc - 읽다 (읽어요)
+xem / nhìn - 보다 (봐요)
+uống - 마시다 (마셔요)
+nghe - 듣다 (들어요)
+gặp - 만나다 (만나요)
+ngủ - 자다 (자요)
+làm việc - 일하다 (일해요)
+mua - 사다 (사요)
+nấu ăn - 요리하다 (요리해요)
+học - 공부하다 (공부해요)
+thích - 좋아하다 (좋아해요)
+tập thể dục - 운동하다 (운동해요)
+thịt bò nướng - 불고기
+tiếng Hàn - 한국어
+ngon - 맛있다
+công viên - 공원
+pizza - 피자
+phim - 영화
+hoa - 꽃
+mèo - 고양이
+âm nhạc - 음악
+trò chơi - 게임
+mua sắm - 쇼핑
+kim chi - 김치
+quần áo - 옷
+hôm nay - 오늘
+thật sự / rất - 정말
+bây giờ - 지금
+
+[5과]
+địa điểm - 장소
+thực phẩm - 식품
+công ty - 회사
+siêu thị - 마트
+bánh mì - 빵
+mì ăn liền (mì tôm) - 라면
+trà - 차
+sữa - 우유
+bánh (snack) - 과자
+kem - 아이스크림
+ở đây - 여기
+trung tâm thương mại - 백화점
+giày da - 구두
+ai - 누가
+táo - 사과
+nho - 포도
+bánh kem - 케이크
+kimbap (cơm cuốn Hàn Quốc) - 김밥
+giày - 신발
+tiếng Anh - 영어
+mỹ phẩm - 화장품
+trường học - 학교
+nhà hàng - 식당
+quán cà phê - 카페
+công viên - 공원
+nhà - 집
+rạp chiếu phim - 영화관
+quần áo - 옷
+túi / cặp - 가방
+
+[6과]
+Số đếm thuần Hàn - 고유어 수
+một - 하나 / 한
+hai - 둘 / 두
+ba - 셋 / 세
+bốn - 넷 / 네
+năm - 다섯
+sáu - 여섯
+bảy - 일곱
+tám - 여덟
+chín - 아홉
+mười - 열
+mười một - 열하나 / 열한
+mười hai - 열둘 / 열두
+hai mươi - 스물 / 스무
+ba mươi - 서른
+bốn mươi - 마흔
+năm mươi - 쉰
+sáu mươi - 예순
+bảy mươi - 일흔
+tám mươi - 여든
+chín mươi - 아흔
+một trăm - 백
+cái (đồ vật) - 개
+bóng - 공
+cục tẩy - 지우개
+trứng - 계란
+người - 명
+con (động vật) - 마리
+ly / cốc - 잔
+chai (bình) - 병
+quyển (sách) - 권
+tờ (giấy) - 장
+tuổi - 살
+cửa sổ - 창문
+ngồi - 앉다 (앉아요)
+cảm ơn / biết ơn - 고맙다 (고마워요)
+cho - 주다 (줘요)
+viết - 쓰다 (써요)
+trả lời - 대답하다 (대답해요)
+mở (ra) - 펴다
+ngày mai - 내일
+sớm - 일찍
+đến - 오다 (와요)
+xe buýt - 버스
+đi (phương tiện) - 타다
+cửa hàng - 가게
+mau / nhanh lên - 어서
+tất cả - 모두
+chuối - 바나나
+cửa hàng tiện lợi - 편의점
+kem đánh răng - 치약
+bàn chải đánh răng - 칫솔
+và - 그리고
+cửa hàng hoa quả - 과일 가게
+Bao nhiêu tiền? - 얼마예요?
+
+[7과]
+ngày - 날짜
+thứ - 요일
+lịch - 달력
+tháng một - 일월
+tháng hai - 이월
+tháng ba - 삼월
+tháng tư - 사월
+tháng năm - 오월
+tháng sáu - 유월
+tháng bảy - 칠월
+tháng tám - 팔월
+tháng chín - 구월
+tháng mười - 시월
+tháng mười một - 십일월
+tháng mười hai - 십이월
+chủ nhật - 일요일
+thứ hai - 월요일
+thứ ba - 화요일
+thứ tư - 수요일
+thứ năm - 목요일
+thứ sáu - 금요일
+thứ bảy - 토요일
+ngày một, ngày hai - 일일, 이일
+ngày ba, ngày bốn - 삼일, 사일
+ngày năm, ngày sáu - 오일, 육일
+ngày bảy, ngày tám - 칠일, 팔일
+ngày chín, ngày mười - 구일, 십일
+ngày mười một, ngày mười hai - 십일일, 십이일
+ngày ba mươi - 삼십일
+ngày ba mươi mốt - 삼십일일
+
+[8과]
+thời tiết - 날씨
+mùa - 계절
+trời quang / trời nắng - 맑다 (맑아요)
+trời nhiều mây - 흐리다 (흐려요)
+gió - 바람
+thổi - 불다 (불어요)
+mưa - 비
+tuyết - 눈
+ấm - 따뜻하다 (따뜻해요)
+nóng - 덥다 (더워요)
+mát - 시원하다 (시원해요)
+se se lạnh - 쌀쌀하다 (쌀쌀해요)
+lạnh - 춥다 (추워요)
+bốn mùa - 사계절
+mùa xuân - 봄
+mùa hè - 여름
+mùa thu - 가을
+mùa đông - 겨울
+lần này - 이번
+thế nào? - 어떻다 (어때요?)
+Seoul - 서울
+tốt - 좋다 (좋아요)
+bận - 바쁘다 (바빠요)
+dâu tây - 딸기
+một chút - 좀
+nặng - 무겁다 (무거워요)
+nhẹ - 가볍다 (가벼워요)
+dạo này - 요즘
+dễ - 쉽다 (쉬워요)
+
+[9과]
+hoạt động - 활동
+tiệm làm tóc - 미용실
+công viên giải trí - 놀이공원
+bảo tàng - 박물관
+bể bơi - 수영장
+đi dạo - 산책하다 (산책해요)
+tham quan - 구경하다 (구경해요)
+xe đạp - 자전거
+dọn dẹp - 청소하다 (청소해요)
+hôm qua - 어제
+nghỉ - 쉬다 (쉬어요)
+làm - 만들다 (만들어요)
+thú vị - 재미있다 (재미있어요)
+chúng ta / chúng tôi - 우리
+chơi - 놀다 (놀아요)
+tâm trạng - 기분
+```
