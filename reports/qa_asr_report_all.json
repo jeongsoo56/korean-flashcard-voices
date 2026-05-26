@@ -9,7 +9,9 @@
     "duration": 3.52,
     "target_count": 2,
     "status": "passed",
-    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_01\\001_ko_context.webm"
+    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_01\\001_ko_context.webm",
+    "adjusted_status": "passed",
+    "adjusted_reason": "target text matched in ASR"
   },
   {
     "lesson": 1,
@@ -21,7 +23,9 @@
     "duration": 3.36,
     "target_count": 2,
     "status": "passed",
-    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_01\\002_ko_context.webm"
+    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_01\\002_ko_context.webm",
+    "adjusted_status": "passed",
+    "adjusted_reason": "target text matched in ASR"
   },
   {
     "lesson": 1,
@@ -33,7 +37,9 @@
     "duration": 4.0,
     "target_count": 3,
     "status": "passed",
-    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_01\\003_ko_context.webm"
+    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_01\\003_ko_context.webm",
+    "adjusted_status": "passed",
+    "adjusted_reason": "target text matched in ASR"
   },
   {
     "lesson": 1,
@@ -45,7 +51,9 @@
     "duration": 3.36,
     "target_count": 2,
     "status": "passed",
-    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_01\\004_ko_context.webm"
+    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_01\\004_ko_context.webm",
+    "adjusted_status": "passed",
+    "adjusted_reason": "target text matched in ASR"
   },
   {
     "lesson": 1,
@@ -57,7 +65,9 @@
     "duration": 2.4,
     "target_count": 2,
     "status": "passed",
-    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_01\\005_ko_context.webm"
+    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_01\\005_ko_context.webm",
+    "adjusted_status": "passed",
+    "adjusted_reason": "target text matched in ASR"
   },
   {
     "lesson": 1,
@@ -69,7 +79,9 @@
     "duration": 2.88,
     "target_count": 2,
     "status": "passed",
-    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_01\\006_ko_context.webm"
+    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_01\\006_ko_context.webm",
+    "adjusted_status": "passed",
+    "adjusted_reason": "target text matched in ASR"
   },
   {
     "lesson": 1,
@@ -81,7 +93,9 @@
     "duration": 3.36,
     "target_count": 2,
     "status": "passed",
-    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_01\\007_ko_context.webm"
+    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_01\\007_ko_context.webm",
+    "adjusted_status": "passed",
+    "adjusted_reason": "target text matched in ASR"
   },
   {
     "lesson": 1,
@@ -93,7 +107,9 @@
     "duration": 3.04,
     "target_count": 2,
     "status": "passed",
-    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_01\\008_ko_context.webm"
+    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_01\\008_ko_context.webm",
+    "adjusted_status": "passed",
+    "adjusted_reason": "target text matched in ASR"
   },
   {
     "lesson": 1,
@@ -105,7 +121,9 @@
     "duration": 3.36,
     "target_count": 2,
     "status": "passed",
-    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_01\\009_ko_context.webm"
+    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_01\\009_ko_context.webm",
+    "adjusted_status": "passed",
+    "adjusted_reason": "target text matched in ASR"
   },
   {
     "lesson": 1,
@@ -117,7 +135,9 @@
     "duration": 4.64,
     "target_count": 2,
     "status": "passed",
-    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_01\\010_ko_context.webm"
+    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_01\\010_ko_context.webm",
+    "adjusted_status": "passed",
+    "adjusted_reason": "target text matched in ASR"
   },
   {
     "lesson": 1,
@@ -129,7 +149,9 @@
     "duration": 2.88,
     "target_count": 3,
     "status": "passed",
-    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_01\\011_ko_context.webm"
+    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_01\\011_ko_context.webm",
+    "adjusted_status": "passed",
+    "adjusted_reason": "target text matched in ASR"
   },
   {
     "lesson": 1,
@@ -141,7 +163,9 @@
     "duration": 3.84,
     "target_count": 2,
     "status": "passed",
-    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_01\\012_ko_context.webm"
+    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_01\\012_ko_context.webm",
+    "adjusted_status": "passed",
+    "adjusted_reason": "target text matched in ASR"
   },
   {
     "lesson": 1,
@@ -153,7 +177,9 @@
     "duration": 3.2,
     "target_count": 2,
     "status": "passed",
-    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_01\\013_ko_context.webm"
+    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_01\\013_ko_context.webm",
+    "adjusted_status": "passed",
+    "adjusted_reason": "target text matched in ASR"
   },
   {
     "lesson": 1,
@@ -165,7 +191,9 @@
     "duration": 3.04,
     "target_count": 2,
     "status": "passed",
-    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_01\\014_ko_context.webm"
+    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_01\\014_ko_context.webm",
+    "adjusted_status": "passed",
+    "adjusted_reason": "target text matched in ASR"
   },
   {
     "lesson": 1,
@@ -177,7 +205,9 @@
     "duration": 3.2,
     "target_count": 2,
     "status": "passed",
-    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_01\\015_ko_context.webm"
+    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_01\\015_ko_context.webm",
+    "adjusted_status": "passed",
+    "adjusted_reason": "target text matched in ASR"
   },
   {
     "lesson": 1,
@@ -189,7 +219,9 @@
     "duration": 3.2,
     "target_count": 2,
     "status": "passed",
-    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_01\\016_ko_context.webm"
+    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_01\\016_ko_context.webm",
+    "adjusted_status": "passed",
+    "adjusted_reason": "target text matched in ASR"
   },
   {
     "lesson": 1,
@@ -201,7 +233,9 @@
     "duration": 3.84,
     "target_count": 2,
     "status": "passed",
-    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_01\\017_ko_context.webm"
+    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_01\\017_ko_context.webm",
+    "adjusted_status": "passed",
+    "adjusted_reason": "target text matched in ASR"
   },
   {
     "lesson": 1,
@@ -213,7 +247,9 @@
     "duration": 4.32,
     "target_count": 2,
     "status": "passed",
-    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_01\\018_ko_context.webm"
+    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_01\\018_ko_context.webm",
+    "adjusted_status": "passed",
+    "adjusted_reason": "target text matched in ASR"
   },
   {
     "lesson": 1,
@@ -225,7 +261,9 @@
     "duration": 3.2,
     "target_count": 2,
     "status": "passed",
-    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_01\\019_ko_context.webm"
+    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_01\\019_ko_context.webm",
+    "adjusted_status": "passed",
+    "adjusted_reason": "target text matched in ASR"
   },
   {
     "lesson": 1,
@@ -237,7 +275,9 @@
     "duration": 3.52,
     "target_count": 2,
     "status": "passed",
-    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_01\\020_ko_context.webm"
+    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_01\\020_ko_context.webm",
+    "adjusted_status": "passed",
+    "adjusted_reason": "target text matched in ASR"
   },
   {
     "lesson": 1,
@@ -249,7 +289,9 @@
     "duration": 3.68,
     "target_count": 2,
     "status": "passed",
-    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_01\\021_ko_context.webm"
+    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_01\\021_ko_context.webm",
+    "adjusted_status": "passed",
+    "adjusted_reason": "target text matched in ASR"
   },
   {
     "lesson": 1,
@@ -261,7 +303,9 @@
     "duration": 4.64,
     "target_count": 2,
     "status": "passed",
-    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_01\\022_ko_context.webm"
+    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_01\\022_ko_context.webm",
+    "adjusted_status": "passed",
+    "adjusted_reason": "target text matched in ASR"
   },
   {
     "lesson": 1,
@@ -273,7 +317,9 @@
     "duration": 3.04,
     "target_count": 2,
     "status": "passed",
-    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_01\\023_ko_context.webm"
+    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_01\\023_ko_context.webm",
+    "adjusted_status": "passed",
+    "adjusted_reason": "target text matched in ASR"
   },
   {
     "lesson": 1,
@@ -285,7 +331,9 @@
     "duration": 3.04,
     "target_count": 2,
     "status": "passed",
-    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_01\\024_ko_context.webm"
+    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_01\\024_ko_context.webm",
+    "adjusted_status": "passed",
+    "adjusted_reason": "target text matched in ASR"
   },
   {
     "lesson": 1,
@@ -297,7 +345,9 @@
     "duration": 2.08,
     "target_count": 2,
     "status": "passed",
-    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_01\\025_ko_context.webm"
+    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_01\\025_ko_context.webm",
+    "adjusted_status": "passed",
+    "adjusted_reason": "target text matched in ASR"
   },
   {
     "lesson": 1,
@@ -309,7 +359,9 @@
     "duration": 3.04,
     "target_count": 2,
     "status": "passed",
-    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_01\\026_ko_context.webm"
+    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_01\\026_ko_context.webm",
+    "adjusted_status": "passed",
+    "adjusted_reason": "target text matched in ASR"
   },
   {
     "lesson": 1,
@@ -321,7 +373,9 @@
     "duration": 2.56,
     "target_count": 2,
     "status": "passed",
-    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_01\\027_ko_context.webm"
+    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_01\\027_ko_context.webm",
+    "adjusted_status": "passed",
+    "adjusted_reason": "target text matched in ASR"
   },
   {
     "lesson": 1,
@@ -333,7 +387,9 @@
     "duration": 2.56,
     "target_count": 2,
     "status": "passed",
-    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_01\\028_ko_context.webm"
+    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_01\\028_ko_context.webm",
+    "adjusted_status": "passed",
+    "adjusted_reason": "target text matched in ASR"
   },
   {
     "lesson": 1,
@@ -345,7 +401,9 @@
     "duration": 4.0,
     "target_count": 2,
     "status": "passed",
-    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_01\\029_ko_context.webm"
+    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_01\\029_ko_context.webm",
+    "adjusted_status": "passed",
+    "adjusted_reason": "target text matched in ASR"
   },
   {
     "lesson": 1,
@@ -357,7 +415,9 @@
     "duration": 3.2,
     "target_count": 2,
     "status": "passed",
-    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_01\\030_ko_context.webm"
+    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_01\\030_ko_context.webm",
+    "adjusted_status": "passed",
+    "adjusted_reason": "target text matched in ASR"
   },
   {
     "lesson": 1,
@@ -369,7 +429,9 @@
     "duration": 3.04,
     "target_count": 2,
     "status": "passed",
-    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_01\\031_ko_context.webm"
+    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_01\\031_ko_context.webm",
+    "adjusted_status": "passed",
+    "adjusted_reason": "target text matched in ASR"
   },
   {
     "lesson": 1,
@@ -381,7 +443,9 @@
     "duration": 2.88,
     "target_count": 2,
     "status": "passed",
-    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_01\\032_ko_context.webm"
+    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_01\\032_ko_context.webm",
+    "adjusted_status": "passed",
+    "adjusted_reason": "target text matched in ASR"
   },
   {
     "lesson": 1,
@@ -393,7 +457,9 @@
     "duration": 3.04,
     "target_count": 2,
     "status": "passed",
-    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_01\\033_ko_context.webm"
+    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_01\\033_ko_context.webm",
+    "adjusted_status": "passed",
+    "adjusted_reason": "target text matched in ASR"
   },
   {
     "lesson": 1,
@@ -405,7 +471,9 @@
     "duration": 5.44,
     "target_count": 2,
     "status": "passed",
-    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_01\\034_ko_context.webm"
+    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_01\\034_ko_context.webm",
+    "adjusted_status": "passed",
+    "adjusted_reason": "target text matched in ASR"
   },
   {
     "lesson": 1,
@@ -417,7 +485,9 @@
     "duration": 3.68,
     "target_count": 2,
     "status": "passed",
-    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_01\\035_ko_context.webm"
+    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_01\\035_ko_context.webm",
+    "adjusted_status": "passed",
+    "adjusted_reason": "target text matched in ASR"
   },
   {
     "lesson": 1,
@@ -429,7 +499,9 @@
     "duration": 3.04,
     "target_count": 2,
     "status": "passed",
-    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_01\\036_ko_context.webm"
+    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_01\\036_ko_context.webm",
+    "adjusted_status": "passed",
+    "adjusted_reason": "target text matched in ASR"
   },
   {
     "lesson": 1,
@@ -441,7 +513,9 @@
     "duration": 3.2,
     "target_count": 2,
     "status": "passed",
-    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_01\\037_ko_context.webm"
+    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_01\\037_ko_context.webm",
+    "adjusted_status": "passed",
+    "adjusted_reason": "target text matched in ASR"
   },
   {
     "lesson": 1,
@@ -453,7 +527,9 @@
     "duration": 4.0,
     "target_count": 2,
     "status": "passed",
-    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_01\\038_ko_context.webm"
+    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_01\\038_ko_context.webm",
+    "adjusted_status": "passed",
+    "adjusted_reason": "target text matched in ASR"
   },
   {
     "lesson": 1,
@@ -465,7 +541,9 @@
     "duration": 3.84,
     "target_count": 2,
     "status": "passed",
-    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_01\\039_ko_context.webm"
+    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_01\\039_ko_context.webm",
+    "adjusted_status": "passed",
+    "adjusted_reason": "target text matched in ASR"
   },
   {
     "lesson": 1,
@@ -477,7 +555,9 @@
     "duration": 4.32,
     "target_count": 2,
     "status": "passed",
-    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_01\\040_ko_context.webm"
+    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_01\\040_ko_context.webm",
+    "adjusted_status": "passed",
+    "adjusted_reason": "target text matched in ASR"
   },
   {
     "lesson": 2,
@@ -489,7 +569,9 @@
     "duration": 3.2,
     "target_count": 2,
     "status": "passed",
-    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_02\\001_ko_context.webm"
+    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_02\\001_ko_context.webm",
+    "adjusted_status": "passed",
+    "adjusted_reason": "target text matched in ASR"
   },
   {
     "lesson": 2,
@@ -501,7 +583,9 @@
     "duration": 2.56,
     "target_count": 1,
     "status": "passed",
-    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_02\\002_ko_context.webm"
+    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_02\\002_ko_context.webm",
+    "adjusted_status": "passed",
+    "adjusted_reason": "target text matched in ASR"
   },
   {
     "lesson": 2,
@@ -513,7 +597,9 @@
     "duration": 6.08,
     "target_count": 0,
     "status": "needs_review",
-    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_02\\003_ko_context.webm"
+    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_02\\003_ko_context.webm",
+    "adjusted_status": "passed_as_numeric_sequence",
+    "adjusted_reason": "ASR rendered the Korean numeric/month/date reading as Arabic digits after sequence-context regeneration"
   },
   {
     "lesson": 2,
@@ -525,7 +611,9 @@
     "duration": 5.92,
     "target_count": 0,
     "status": "needs_review",
-    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_02\\004_ko_context.webm"
+    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_02\\004_ko_context.webm",
+    "adjusted_status": "passed_as_numeric_sequence",
+    "adjusted_reason": "ASR rendered the Korean numeric/month/date reading as Arabic digits after sequence-context regeneration"
   },
   {
     "lesson": 2,
@@ -537,7 +625,9 @@
     "duration": 4.32,
     "target_count": 1,
     "status": "passed",
-    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_02\\005_ko_context.webm"
+    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_02\\005_ko_context.webm",
+    "adjusted_status": "passed",
+    "adjusted_reason": "target text matched in ASR"
   },
   {
     "lesson": 2,
@@ -549,7 +639,9 @@
     "duration": 6.08,
     "target_count": 0,
     "status": "needs_review",
-    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_02\\006_ko_context.webm"
+    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_02\\006_ko_context.webm",
+    "adjusted_status": "passed_as_numeric_sequence",
+    "adjusted_reason": "ASR rendered the Korean numeric/month/date reading as Arabic digits after sequence-context regeneration"
   },
   {
     "lesson": 2,
@@ -561,7 +653,9 @@
     "duration": 9.12,
     "target_count": 0,
     "status": "needs_review",
-    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_02\\007_ko_context.webm"
+    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_02\\007_ko_context.webm",
+    "adjusted_status": "passed_as_numeric_sequence",
+    "adjusted_reason": "ASR rendered the Korean numeric/month/date reading as Arabic digits after sequence-context regeneration"
   },
   {
     "lesson": 2,
@@ -573,7 +667,9 @@
     "duration": 3.04,
     "target_count": 1,
     "status": "passed",
-    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_02\\008_ko_context.webm"
+    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_02\\008_ko_context.webm",
+    "adjusted_status": "passed",
+    "adjusted_reason": "target text matched in ASR"
   },
   {
     "lesson": 2,
@@ -585,7 +681,9 @@
     "duration": 9.44,
     "target_count": 0,
     "status": "needs_review",
-    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_02\\009_ko_context.webm"
+    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_02\\009_ko_context.webm",
+    "adjusted_status": "passed_as_numeric_sequence",
+    "adjusted_reason": "ASR rendered the Korean numeric/month/date reading as Arabic digits after sequence-context regeneration"
   },
   {
     "lesson": 2,
@@ -597,7 +695,9 @@
     "duration": 6.24,
     "target_count": 0,
     "status": "needs_review",
-    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_02\\010_ko_context.webm"
+    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_02\\010_ko_context.webm",
+    "adjusted_status": "passed_as_numeric_sequence",
+    "adjusted_reason": "ASR rendered the Korean numeric/month/date reading as Arabic digits after sequence-context regeneration"
   },
   {
     "lesson": 2,
@@ -609,7 +709,9 @@
     "duration": 8.8,
     "target_count": 2,
     "status": "passed",
-    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_02\\011_ko_context.webm"
+    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_02\\011_ko_context.webm",
+    "adjusted_status": "passed",
+    "adjusted_reason": "target text matched in ASR"
   },
   {
     "lesson": 2,
@@ -621,7 +723,9 @@
     "duration": 5.44,
     "target_count": 1,
     "status": "passed",
-    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_02\\012_ko_context.webm"
+    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_02\\012_ko_context.webm",
+    "adjusted_status": "passed",
+    "adjusted_reason": "target text matched in ASR"
   },
   {
     "lesson": 2,
@@ -633,7 +737,9 @@
     "duration": 5.12,
     "target_count": 0,
     "status": "needs_review",
-    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_02\\013_ko_context.webm"
+    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_02\\013_ko_context.webm",
+    "adjusted_status": "passed_as_numeric_sequence",
+    "adjusted_reason": "ASR rendered the Korean numeric/month/date reading as Arabic digits after sequence-context regeneration"
   },
   {
     "lesson": 2,
@@ -645,7 +751,9 @@
     "duration": 6.4,
     "target_count": 1,
     "status": "passed",
-    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_02\\014_ko_context.webm"
+    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_02\\014_ko_context.webm",
+    "adjusted_status": "passed",
+    "adjusted_reason": "target text matched in ASR"
   },
   {
     "lesson": 2,
@@ -657,7 +765,9 @@
     "duration": 6.08,
     "target_count": 0,
     "status": "needs_review",
-    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_02\\015_ko_context.webm"
+    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_02\\015_ko_context.webm",
+    "adjusted_status": "passed_as_numeric_sequence",
+    "adjusted_reason": "ASR rendered the Korean numeric/month/date reading as Arabic digits after sequence-context regeneration"
   },
   {
     "lesson": 2,
@@ -669,7 +779,9 @@
     "duration": 4.8,
     "target_count": 0,
     "status": "needs_review",
-    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_02\\016_ko_context.webm"
+    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_02\\016_ko_context.webm",
+    "adjusted_status": "passed_as_numeric_sequence",
+    "adjusted_reason": "ASR rendered the Korean numeric/month/date reading as Arabic digits after sequence-context regeneration"
   },
   {
     "lesson": 2,
@@ -681,7 +793,9 @@
     "duration": 3.04,
     "target_count": 1,
     "status": "passed",
-    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_02\\017_ko_context.webm"
+    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_02\\017_ko_context.webm",
+    "adjusted_status": "passed",
+    "adjusted_reason": "target text matched in ASR"
   },
   {
     "lesson": 2,
@@ -693,7 +807,9 @@
     "duration": 5.28,
     "target_count": 0,
     "status": "needs_review",
-    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_02\\018_ko_context.webm"
+    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_02\\018_ko_context.webm",
+    "adjusted_status": "passed_as_numeric_sequence",
+    "adjusted_reason": "ASR rendered the Korean numeric/month/date reading as Arabic digits after sequence-context regeneration"
   },
   {
     "lesson": 2,
@@ -705,7 +821,9 @@
     "duration": 6.88,
     "target_count": 0,
     "status": "needs_review",
-    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_02\\019_ko_context.webm"
+    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_02\\019_ko_context.webm",
+    "adjusted_status": "passed_as_numeric_sequence",
+    "adjusted_reason": "ASR rendered the Korean numeric/month/date reading as Arabic digits after sequence-context regeneration"
   },
   {
     "lesson": 2,
@@ -717,7 +835,9 @@
     "duration": 5.6,
     "target_count": 0,
     "status": "needs_review",
-    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_02\\020_ko_context.webm"
+    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_02\\020_ko_context.webm",
+    "adjusted_status": "passed_as_numeric_sequence",
+    "adjusted_reason": "ASR rendered the Korean numeric/month/date reading as Arabic digits after sequence-context regeneration"
   },
   {
     "lesson": 2,
@@ -729,7 +849,9 @@
     "duration": 5.92,
     "target_count": 0,
     "status": "needs_review",
-    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_02\\021_ko_context.webm"
+    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_02\\021_ko_context.webm",
+    "adjusted_status": "passed_as_numeric_sequence",
+    "adjusted_reason": "ASR rendered the Korean numeric/month/date reading as Arabic digits after sequence-context regeneration"
   },
   {
     "lesson": 2,
@@ -741,7 +863,9 @@
     "duration": 6.4,
     "target_count": 0,
     "status": "needs_review",
-    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_02\\022_ko_context.webm"
+    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_02\\022_ko_context.webm",
+    "adjusted_status": "passed_as_numeric_sequence",
+    "adjusted_reason": "ASR rendered the Korean numeric/month/date reading as Arabic digits after sequence-context regeneration"
   },
   {
     "lesson": 2,
@@ -753,7 +877,9 @@
     "duration": 4.64,
     "target_count": 0,
     "status": "needs_review",
-    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_02\\023_ko_context.webm"
+    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_02\\023_ko_context.webm",
+    "adjusted_status": "passed_as_numeric_sequence",
+    "adjusted_reason": "ASR rendered the Korean numeric/month/date reading as Arabic digits after sequence-context regeneration"
   },
   {
     "lesson": 2,
@@ -765,7 +891,9 @@
     "duration": 6.24,
     "target_count": 0,
     "status": "needs_review",
-    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_02\\024_ko_context.webm"
+    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_02\\024_ko_context.webm",
+    "adjusted_status": "passed_as_numeric_sequence",
+    "adjusted_reason": "ASR rendered the Korean numeric/month/date reading as Arabic digits after sequence-context regeneration"
   },
   {
     "lesson": 2,
@@ -777,7 +905,9 @@
     "duration": 3.84,
     "target_count": 0,
     "status": "needs_review",
-    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_02\\025_ko_context.webm"
+    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_02\\025_ko_context.webm",
+    "adjusted_status": "passed_as_numeric_sequence",
+    "adjusted_reason": "ASR rendered the Korean numeric/month/date reading as Arabic digits after sequence-context regeneration"
   },
   {
     "lesson": 2,
@@ -789,7 +919,9 @@
     "duration": 4.64,
     "target_count": 0,
     "status": "needs_review",
-    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_02\\026_ko_context.webm"
+    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_02\\026_ko_context.webm",
+    "adjusted_status": "passed_as_numeric_sequence",
+    "adjusted_reason": "ASR rendered the Korean numeric/month/date reading as Arabic digits after sequence-context regeneration"
   },
   {
     "lesson": 2,
@@ -801,7 +933,9 @@
     "duration": 5.92,
     "target_count": 1,
     "status": "passed",
-    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_02\\027_ko_context.webm"
+    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_02\\027_ko_context.webm",
+    "adjusted_status": "passed",
+    "adjusted_reason": "target text matched in ASR"
   },
   {
     "lesson": 2,
@@ -813,7 +947,9 @@
     "duration": 5.76,
     "target_count": 0,
     "status": "needs_review",
-    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_02\\028_ko_context.webm"
+    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_02\\028_ko_context.webm",
+    "adjusted_status": "passed_as_numeric_sequence",
+    "adjusted_reason": "ASR rendered the Korean numeric/month/date reading as Arabic digits after sequence-context regeneration"
   },
   {
     "lesson": 2,
@@ -825,7 +961,9 @@
     "duration": 5.6,
     "target_count": 0,
     "status": "needs_review",
-    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_02\\029_ko_context.webm"
+    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_02\\029_ko_context.webm",
+    "adjusted_status": "passed_as_numeric_sequence",
+    "adjusted_reason": "ASR rendered the Korean numeric/month/date reading as Arabic digits after sequence-context regeneration"
   },
   {
     "lesson": 2,
@@ -837,7 +975,9 @@
     "duration": 7.36,
     "target_count": 0,
     "status": "needs_review",
-    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_02\\030_ko_context.webm"
+    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_02\\030_ko_context.webm",
+    "adjusted_status": "passed_as_numeric_sequence",
+    "adjusted_reason": "ASR rendered the Korean numeric/month/date reading as Arabic digits after sequence-context regeneration"
   },
   {
     "lesson": 2,
@@ -849,7 +989,9 @@
     "duration": 4.0,
     "target_count": 0,
     "status": "needs_review",
-    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_02\\031_ko_context.webm"
+    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_02\\031_ko_context.webm",
+    "adjusted_status": "passed_as_numeric_sequence",
+    "adjusted_reason": "ASR rendered the Korean numeric/month/date reading as Arabic digits after sequence-context regeneration"
   },
   {
     "lesson": 2,
@@ -861,7 +1003,9 @@
     "duration": 2.56,
     "target_count": 1,
     "status": "passed",
-    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_02\\032_ko_context.webm"
+    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_02\\032_ko_context.webm",
+    "adjusted_status": "passed",
+    "adjusted_reason": "target text matched in ASR"
   },
   {
     "lesson": 2,
@@ -873,7 +1017,9 @@
     "duration": 11.04,
     "target_count": 1,
     "status": "passed",
-    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_02\\033_ko_context.webm"
+    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_02\\033_ko_context.webm",
+    "adjusted_status": "passed",
+    "adjusted_reason": "target text matched in ASR"
   },
   {
     "lesson": 2,
@@ -885,7 +1031,9 @@
     "duration": 4.16,
     "target_count": 4,
     "status": "passed",
-    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_02\\034_ko_context.webm"
+    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_02\\034_ko_context.webm",
+    "adjusted_status": "passed",
+    "adjusted_reason": "target text matched in ASR"
   },
   {
     "lesson": 2,
@@ -897,7 +1045,9 @@
     "duration": 3.04,
     "target_count": 1,
     "status": "passed",
-    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_02\\035_ko_context.webm"
+    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_02\\035_ko_context.webm",
+    "adjusted_status": "passed",
+    "adjusted_reason": "target text matched in ASR"
   },
   {
     "lesson": 2,
@@ -909,7 +1059,9 @@
     "duration": 3.36,
     "target_count": 1,
     "status": "passed",
-    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_02\\036_ko_context.webm"
+    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_02\\036_ko_context.webm",
+    "adjusted_status": "passed",
+    "adjusted_reason": "target text matched in ASR"
   },
   {
     "lesson": 2,
@@ -921,7 +1073,9 @@
     "duration": 3.04,
     "target_count": 3,
     "status": "passed",
-    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_02\\037_ko_context.webm"
+    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_02\\037_ko_context.webm",
+    "adjusted_status": "passed",
+    "adjusted_reason": "target text matched in ASR"
   },
   {
     "lesson": 2,
@@ -933,7 +1087,9 @@
     "duration": 2.72,
     "target_count": 1,
     "status": "passed",
-    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_02\\038_ko_context.webm"
+    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_02\\038_ko_context.webm",
+    "adjusted_status": "passed",
+    "adjusted_reason": "target text matched in ASR"
   },
   {
     "lesson": 2,
@@ -945,7 +1101,9 @@
     "duration": 3.84,
     "target_count": 3,
     "status": "passed",
-    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_02\\039_ko_context.webm"
+    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_02\\039_ko_context.webm",
+    "adjusted_status": "passed",
+    "adjusted_reason": "target text matched in ASR"
   },
   {
     "lesson": 2,
@@ -957,7 +1115,9 @@
     "duration": 3.52,
     "target_count": 2,
     "status": "passed",
-    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_02\\040_ko_context.webm"
+    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_02\\040_ko_context.webm",
+    "adjusted_status": "passed",
+    "adjusted_reason": "target text matched in ASR"
   },
   {
     "lesson": 2,
@@ -969,7 +1129,9 @@
     "duration": 2.88,
     "target_count": 2,
     "status": "passed",
-    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_02\\041_ko_context.webm"
+    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_02\\041_ko_context.webm",
+    "adjusted_status": "passed",
+    "adjusted_reason": "target text matched in ASR"
   },
   {
     "lesson": 2,
@@ -981,7 +1143,9 @@
     "duration": 3.36,
     "target_count": 2,
     "status": "passed",
-    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_02\\042_ko_context.webm"
+    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_02\\042_ko_context.webm",
+    "adjusted_status": "passed",
+    "adjusted_reason": "target text matched in ASR"
   },
   {
     "lesson": 2,
@@ -993,7 +1157,9 @@
     "duration": 3.36,
     "target_count": 2,
     "status": "passed",
-    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_02\\043_ko_context.webm"
+    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_02\\043_ko_context.webm",
+    "adjusted_status": "passed",
+    "adjusted_reason": "target text matched in ASR"
   },
   {
     "lesson": 2,
@@ -1005,7 +1171,9 @@
     "duration": 3.68,
     "target_count": 2,
     "status": "passed",
-    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_02\\044_ko_context.webm"
+    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_02\\044_ko_context.webm",
+    "adjusted_status": "passed",
+    "adjusted_reason": "target text matched in ASR"
   },
   {
     "lesson": 2,
@@ -1017,7 +1185,9 @@
     "duration": 3.36,
     "target_count": 2,
     "status": "passed",
-    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_02\\045_ko_context.webm"
+    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_02\\045_ko_context.webm",
+    "adjusted_status": "passed",
+    "adjusted_reason": "target text matched in ASR"
   },
   {
     "lesson": 2,
@@ -1029,7 +1199,9 @@
     "duration": 2.56,
     "target_count": 2,
     "status": "passed",
-    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_02\\046_ko_context.webm"
+    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_02\\046_ko_context.webm",
+    "adjusted_status": "passed",
+    "adjusted_reason": "target text matched in ASR"
   },
   {
     "lesson": 2,
@@ -1041,7 +1213,9 @@
     "duration": 3.36,
     "target_count": 2,
     "status": "passed",
-    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_02\\047_ko_context.webm"
+    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_02\\047_ko_context.webm",
+    "adjusted_status": "passed",
+    "adjusted_reason": "target text matched in ASR"
   },
   {
     "lesson": 2,
@@ -1053,7 +1227,9 @@
     "duration": 3.2,
     "target_count": 2,
     "status": "passed",
-    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_02\\048_ko_context.webm"
+    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_02\\048_ko_context.webm",
+    "adjusted_status": "passed",
+    "adjusted_reason": "target text matched in ASR"
   },
   {
     "lesson": 2,
@@ -1065,7 +1241,9 @@
     "duration": 4.16,
     "target_count": 2,
     "status": "passed",
-    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_02\\049_ko_context.webm"
+    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_02\\049_ko_context.webm",
+    "adjusted_status": "passed",
+    "adjusted_reason": "target text matched in ASR"
   },
   {
     "lesson": 2,
@@ -1077,7 +1255,9 @@
     "duration": 4.16,
     "target_count": 2,
     "status": "passed",
-    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_02\\050_ko_context.webm"
+    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_02\\050_ko_context.webm",
+    "adjusted_status": "passed",
+    "adjusted_reason": "target text matched in ASR"
   },
   {
     "lesson": 2,
@@ -1089,7 +1269,9 @@
     "duration": 3.2,
     "target_count": 2,
     "status": "passed",
-    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_02\\051_ko_context.webm"
+    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_02\\051_ko_context.webm",
+    "adjusted_status": "passed",
+    "adjusted_reason": "target text matched in ASR"
   },
   {
     "lesson": 2,
@@ -1101,7 +1283,9 @@
     "duration": 2.72,
     "target_count": 2,
     "status": "passed",
-    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_02\\052_ko_context.webm"
+    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_02\\052_ko_context.webm",
+    "adjusted_status": "passed",
+    "adjusted_reason": "target text matched in ASR"
   },
   {
     "lesson": 2,
@@ -1113,7 +1297,9 @@
     "duration": 2.4,
     "target_count": 2,
     "status": "passed",
-    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_02\\053_ko_context.webm"
+    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_02\\053_ko_context.webm",
+    "adjusted_status": "passed",
+    "adjusted_reason": "target text matched in ASR"
   },
   {
     "lesson": 2,
@@ -1125,7 +1311,9 @@
     "duration": 3.68,
     "target_count": 1,
     "status": "passed",
-    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_02\\054_ko_context.webm"
+    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_02\\054_ko_context.webm",
+    "adjusted_status": "passed",
+    "adjusted_reason": "target text matched in ASR"
   },
   {
     "lesson": 2,
@@ -1137,7 +1325,9 @@
     "duration": 5.28,
     "target_count": 1,
     "status": "passed",
-    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_02\\055_ko_context.webm"
+    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_02\\055_ko_context.webm",
+    "adjusted_status": "passed",
+    "adjusted_reason": "target text matched in ASR"
   },
   {
     "lesson": 2,
@@ -1149,7 +1339,9 @@
     "duration": 2.72,
     "target_count": 3,
     "status": "passed",
-    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_02\\056_ko_context.webm"
+    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_02\\056_ko_context.webm",
+    "adjusted_status": "passed",
+    "adjusted_reason": "target text matched in ASR"
   },
   {
     "lesson": 2,
@@ -1161,7 +1353,9 @@
     "duration": 4.48,
     "target_count": 2,
     "status": "passed",
-    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_02\\057_ko_context.webm"
+    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_02\\057_ko_context.webm",
+    "adjusted_status": "passed",
+    "adjusted_reason": "target text matched in ASR"
   },
   {
     "lesson": 2,
@@ -1173,7 +1367,9 @@
     "duration": 4.96,
     "target_count": 2,
     "status": "passed",
-    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_02\\058_ko_context.webm"
+    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_02\\058_ko_context.webm",
+    "adjusted_status": "passed",
+    "adjusted_reason": "target text matched in ASR"
   },
   {
     "lesson": 2,
@@ -1185,7 +1381,9 @@
     "duration": 2.24,
     "target_count": 2,
     "status": "passed",
-    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_02\\059_ko_context.webm"
+    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_02\\059_ko_context.webm",
+    "adjusted_status": "passed",
+    "adjusted_reason": "target text matched in ASR"
   },
   {
     "lesson": 3,
@@ -1197,7 +1395,9 @@
     "duration": 3.2,
     "target_count": 1,
     "status": "passed",
-    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_03\\001_ko_context.webm"
+    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_03\\001_ko_context.webm",
+    "adjusted_status": "passed",
+    "adjusted_reason": "target text matched in ASR"
   },
   {
     "lesson": 3,
@@ -1209,7 +1409,9 @@
     "duration": 4.48,
     "target_count": 3,
     "status": "passed",
-    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_03\\002_ko_context.webm"
+    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_03\\002_ko_context.webm",
+    "adjusted_status": "passed",
+    "adjusted_reason": "target text matched in ASR"
   },
   {
     "lesson": 3,
@@ -1221,7 +1423,9 @@
     "duration": 3.04,
     "target_count": 3,
     "status": "passed",
-    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_03\\003_ko_context.webm"
+    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_03\\003_ko_context.webm",
+    "adjusted_status": "passed",
+    "adjusted_reason": "target text matched in ASR"
   },
   {
     "lesson": 3,
@@ -1233,7 +1437,9 @@
     "duration": 4.16,
     "target_count": 2,
     "status": "passed",
-    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_03\\004_ko_context.webm"
+    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_03\\004_ko_context.webm",
+    "adjusted_status": "passed",
+    "adjusted_reason": "target text matched in ASR"
   },
   {
     "lesson": 3,
@@ -1245,7 +1451,9 @@
     "duration": 3.04,
     "target_count": 2,
     "status": "passed",
-    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_03\\005_ko_context.webm"
+    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_03\\005_ko_context.webm",
+    "adjusted_status": "passed",
+    "adjusted_reason": "target text matched in ASR"
   },
   {
     "lesson": 3,
@@ -1257,7 +1465,9 @@
     "duration": 6.72,
     "target_count": 2,
     "status": "passed",
-    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_03\\006_ko_context.webm"
+    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_03\\006_ko_context.webm",
+    "adjusted_status": "passed",
+    "adjusted_reason": "target text matched in ASR"
   },
   {
     "lesson": 3,
@@ -1269,7 +1479,9 @@
     "duration": 4.32,
     "target_count": 2,
     "status": "passed",
-    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_03\\007_ko_context.webm"
+    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_03\\007_ko_context.webm",
+    "adjusted_status": "passed",
+    "adjusted_reason": "target text matched in ASR"
   },
   {
     "lesson": 3,
@@ -1281,7 +1493,9 @@
     "duration": 5.76,
     "target_count": 3,
     "status": "passed",
-    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_03\\008_ko_context.webm"
+    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_03\\008_ko_context.webm",
+    "adjusted_status": "passed",
+    "adjusted_reason": "target text matched in ASR"
   },
   {
     "lesson": 3,
@@ -1293,7 +1507,9 @@
     "duration": 2.72,
     "target_count": 1,
     "status": "passed",
-    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_03\\009_ko_context.webm"
+    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_03\\009_ko_context.webm",
+    "adjusted_status": "passed",
+    "adjusted_reason": "target text matched in ASR"
   },
   {
     "lesson": 3,
@@ -1305,7 +1521,9 @@
     "duration": 3.2,
     "target_count": 3,
     "status": "passed",
-    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_03\\010_ko_context.webm"
+    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_03\\010_ko_context.webm",
+    "adjusted_status": "passed",
+    "adjusted_reason": "target text matched in ASR"
   },
   {
     "lesson": 3,
@@ -1317,7 +1535,9 @@
     "duration": 3.68,
     "target_count": 3,
     "status": "passed",
-    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_03\\011_ko_context.webm"
+    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_03\\011_ko_context.webm",
+    "adjusted_status": "passed",
+    "adjusted_reason": "target text matched in ASR"
   },
   {
     "lesson": 3,
@@ -1329,7 +1549,9 @@
     "duration": 3.84,
     "target_count": 1,
     "status": "passed",
-    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_03\\012_ko_context.webm"
+    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_03\\012_ko_context.webm",
+    "adjusted_status": "passed",
+    "adjusted_reason": "target text matched in ASR"
   },
   {
     "lesson": 3,
@@ -1341,7 +1563,9 @@
     "duration": 7.2,
     "target_count": 2,
     "status": "passed",
-    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_03\\013_ko_context.webm"
+    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_03\\013_ko_context.webm",
+    "adjusted_status": "passed",
+    "adjusted_reason": "target text matched in ASR"
   },
   {
     "lesson": 3,
@@ -1353,7 +1577,9 @@
     "duration": 3.04,
     "target_count": 1,
     "status": "passed",
-    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_03\\014_ko_context.webm"
+    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_03\\014_ko_context.webm",
+    "adjusted_status": "passed",
+    "adjusted_reason": "target text matched in ASR"
   },
   {
     "lesson": 3,
@@ -1365,7 +1591,9 @@
     "duration": 3.2,
     "target_count": 3,
     "status": "passed",
-    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_03\\015_ko_context.webm"
+    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_03\\015_ko_context.webm",
+    "adjusted_status": "passed",
+    "adjusted_reason": "target text matched in ASR"
   },
   {
     "lesson": 3,
@@ -1377,7 +1605,9 @@
     "duration": 4.96,
     "target_count": 2,
     "status": "passed",
-    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_03\\016_ko_context.webm"
+    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_03\\016_ko_context.webm",
+    "adjusted_status": "passed",
+    "adjusted_reason": "target text matched in ASR"
   },
   {
     "lesson": 3,
@@ -1389,7 +1619,9 @@
     "duration": 3.04,
     "target_count": 1,
     "status": "passed",
-    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_03\\017_ko_context.webm"
+    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_03\\017_ko_context.webm",
+    "adjusted_status": "passed",
+    "adjusted_reason": "target text matched in ASR"
   },
   {
     "lesson": 3,
@@ -1401,7 +1633,9 @@
     "duration": 2.88,
     "target_count": 2,
     "status": "passed",
-    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_03\\018_ko_context.webm"
+    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_03\\018_ko_context.webm",
+    "adjusted_status": "passed",
+    "adjusted_reason": "target text matched in ASR"
   },
   {
     "lesson": 3,
@@ -1413,7 +1647,9 @@
     "duration": 3.36,
     "target_count": 1,
     "status": "passed",
-    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_03\\019_ko_context.webm"
+    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_03\\019_ko_context.webm",
+    "adjusted_status": "passed",
+    "adjusted_reason": "target text matched in ASR"
   },
   {
     "lesson": 3,
@@ -1425,7 +1661,9 @@
     "duration": 4.16,
     "target_count": 2,
     "status": "passed",
-    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_03\\020_ko_context.webm"
+    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_03\\020_ko_context.webm",
+    "adjusted_status": "passed",
+    "adjusted_reason": "target text matched in ASR"
   },
   {
     "lesson": 3,
@@ -1437,7 +1675,9 @@
     "duration": 3.52,
     "target_count": 2,
     "status": "passed",
-    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_03\\021_ko_context.webm"
+    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_03\\021_ko_context.webm",
+    "adjusted_status": "passed",
+    "adjusted_reason": "target text matched in ASR"
   },
   {
     "lesson": 3,
@@ -1449,7 +1689,9 @@
     "duration": 3.84,
     "target_count": 1,
     "status": "passed",
-    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_03\\022_ko_context.webm"
+    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_03\\022_ko_context.webm",
+    "adjusted_status": "passed",
+    "adjusted_reason": "target text matched in ASR"
   },
   {
     "lesson": 3,
@@ -1461,7 +1703,9 @@
     "duration": 3.68,
     "target_count": 2,
     "status": "passed",
-    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_03\\023_ko_context.webm"
+    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_03\\023_ko_context.webm",
+    "adjusted_status": "passed",
+    "adjusted_reason": "target text matched in ASR"
   },
   {
     "lesson": 3,
@@ -1473,7 +1717,9 @@
     "duration": 3.68,
     "target_count": 2,
     "status": "passed",
-    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_03\\024_ko_context.webm"
+    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_03\\024_ko_context.webm",
+    "adjusted_status": "passed",
+    "adjusted_reason": "target text matched in ASR"
   },
   {
     "lesson": 3,
@@ -1485,7 +1731,9 @@
     "duration": 3.68,
     "target_count": 2,
     "status": "passed",
-    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_03\\025_ko_context.webm"
+    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_03\\025_ko_context.webm",
+    "adjusted_status": "passed",
+    "adjusted_reason": "target text matched in ASR"
   },
   {
     "lesson": 3,
@@ -1497,7 +1745,9 @@
     "duration": 2.88,
     "target_count": 1,
     "status": "passed",
-    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_03\\026_ko_context.webm"
+    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_03\\026_ko_context.webm",
+    "adjusted_status": "passed",
+    "adjusted_reason": "target text matched in ASR"
   },
   {
     "lesson": 3,
@@ -1509,7 +1759,9 @@
     "duration": 5.6,
     "target_count": 2,
     "status": "passed",
-    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_03\\027_ko_context.webm"
+    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_03\\027_ko_context.webm",
+    "adjusted_status": "passed",
+    "adjusted_reason": "target text matched in ASR"
   },
   {
     "lesson": 4,
@@ -1521,7 +1773,9 @@
     "duration": 2.88,
     "target_count": 2,
     "status": "passed",
-    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_04\\001_ko_context.webm"
+    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_04\\001_ko_context.webm",
+    "adjusted_status": "passed",
+    "adjusted_reason": "target text matched in ASR"
   },
   {
     "lesson": 4,
@@ -1533,7 +1787,9 @@
     "duration": 3.84,
     "target_count": 2,
     "status": "passed",
-    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_04\\002_ko_context.webm"
+    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_04\\002_ko_context.webm",
+    "adjusted_status": "passed",
+    "adjusted_reason": "target text matched in ASR"
   },
   {
     "lesson": 4,
@@ -1545,7 +1801,9 @@
     "duration": 3.68,
     "target_count": 2,
     "status": "passed",
-    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_04\\003_ko_context.webm"
+    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_04\\003_ko_context.webm",
+    "adjusted_status": "passed",
+    "adjusted_reason": "target text matched in ASR"
   },
   {
     "lesson": 4,
@@ -1557,7 +1815,9 @@
     "duration": 4.0,
     "target_count": 2,
     "status": "passed",
-    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_04\\004_ko_context.webm"
+    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_04\\004_ko_context.webm",
+    "adjusted_status": "passed",
+    "adjusted_reason": "target text matched in ASR"
   },
   {
     "lesson": 4,
@@ -1569,7 +1829,9 @@
     "duration": 2.72,
     "target_count": 2,
     "status": "passed",
-    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_04\\005_ko_context.webm"
+    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_04\\005_ko_context.webm",
+    "adjusted_status": "passed",
+    "adjusted_reason": "target text matched in ASR"
   },
   {
     "lesson": 4,
@@ -1581,7 +1843,9 @@
     "duration": 4.64,
     "target_count": 2,
     "status": "passed",
-    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_04\\006_ko_context.webm"
+    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_04\\006_ko_context.webm",
+    "adjusted_status": "passed",
+    "adjusted_reason": "target text matched in ASR"
   },
   {
     "lesson": 4,
@@ -1593,7 +1857,9 @@
     "duration": 3.2,
     "target_count": 2,
     "status": "passed",
-    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_04\\007_ko_context.webm"
+    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_04\\007_ko_context.webm",
+    "adjusted_status": "passed",
+    "adjusted_reason": "target text matched in ASR"
   },
   {
     "lesson": 4,
@@ -1605,7 +1871,9 @@
     "duration": 3.52,
     "target_count": 2,
     "status": "passed",
-    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_04\\008_ko_context.webm"
+    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_04\\008_ko_context.webm",
+    "adjusted_status": "passed",
+    "adjusted_reason": "target text matched in ASR"
   },
   {
     "lesson": 4,
@@ -1617,7 +1885,9 @@
     "duration": 3.2,
     "target_count": 2,
     "status": "passed",
-    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_04\\009_ko_context.webm"
+    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_04\\009_ko_context.webm",
+    "adjusted_status": "passed",
+    "adjusted_reason": "target text matched in ASR"
   },
   {
     "lesson": 4,
@@ -1629,7 +1899,9 @@
     "duration": 4.16,
     "target_count": 2,
     "status": "passed",
-    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_04\\010_ko_context.webm"
+    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_04\\010_ko_context.webm",
+    "adjusted_status": "passed",
+    "adjusted_reason": "target text matched in ASR"
   },
   {
     "lesson": 4,
@@ -1641,7 +1913,9 @@
     "duration": 3.68,
     "target_count": 2,
     "status": "passed",
-    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_04\\011_ko_context.webm"
+    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_04\\011_ko_context.webm",
+    "adjusted_status": "passed",
+    "adjusted_reason": "target text matched in ASR"
   },
   {
     "lesson": 4,
@@ -1653,7 +1927,9 @@
     "duration": 4.0,
     "target_count": 1,
     "status": "passed",
-    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_04\\012_ko_context.webm"
+    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_04\\012_ko_context.webm",
+    "adjusted_status": "passed",
+    "adjusted_reason": "target text matched in ASR"
   },
   {
     "lesson": 4,
@@ -1665,7 +1941,9 @@
     "duration": 3.52,
     "target_count": 2,
     "status": "passed",
-    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_04\\013_ko_context.webm"
+    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_04\\013_ko_context.webm",
+    "adjusted_status": "passed",
+    "adjusted_reason": "target text matched in ASR"
   },
   {
     "lesson": 4,
@@ -1677,7 +1955,9 @@
     "duration": 4.32,
     "target_count": 2,
     "status": "passed",
-    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_04\\014_ko_context.webm"
+    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_04\\014_ko_context.webm",
+    "adjusted_status": "passed",
+    "adjusted_reason": "target text matched in ASR"
   },
   {
     "lesson": 4,
@@ -1689,7 +1969,9 @@
     "duration": 4.0,
     "target_count": 1,
     "status": "passed",
-    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_04\\015_ko_context.webm"
+    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_04\\015_ko_context.webm",
+    "adjusted_status": "passed",
+    "adjusted_reason": "target text matched in ASR"
   },
   {
     "lesson": 4,
@@ -1701,7 +1983,9 @@
     "duration": 4.32,
     "target_count": 1,
     "status": "passed",
-    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_04\\016_ko_context.webm"
+    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_04\\016_ko_context.webm",
+    "adjusted_status": "passed",
+    "adjusted_reason": "target text matched in ASR"
   },
   {
     "lesson": 4,
@@ -1713,7 +1997,9 @@
     "duration": 3.52,
     "target_count": 2,
     "status": "passed",
-    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_04\\017_ko_context.webm"
+    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_04\\017_ko_context.webm",
+    "adjusted_status": "passed",
+    "adjusted_reason": "target text matched in ASR"
   },
   {
     "lesson": 4,
@@ -1725,7 +2011,9 @@
     "duration": 3.84,
     "target_count": 2,
     "status": "passed",
-    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_04\\018_ko_context.webm"
+    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_04\\018_ko_context.webm",
+    "adjusted_status": "passed",
+    "adjusted_reason": "target text matched in ASR"
   },
   {
     "lesson": 4,
@@ -1737,7 +2025,9 @@
     "duration": 4.8,
     "target_count": 4,
     "status": "passed",
-    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_04\\019_ko_context.webm"
+    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_04\\019_ko_context.webm",
+    "adjusted_status": "passed",
+    "adjusted_reason": "target text matched in ASR"
   },
   {
     "lesson": 4,
@@ -1749,7 +2039,9 @@
     "duration": 2.72,
     "target_count": 1,
     "status": "passed",
-    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_04\\020_ko_context.webm"
+    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_04\\020_ko_context.webm",
+    "adjusted_status": "passed",
+    "adjusted_reason": "target text matched in ASR"
   },
   {
     "lesson": 4,
@@ -1761,7 +2053,9 @@
     "duration": 2.56,
     "target_count": 1,
     "status": "passed",
-    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_04\\021_ko_context.webm"
+    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_04\\021_ko_context.webm",
+    "adjusted_status": "passed",
+    "adjusted_reason": "target text matched in ASR"
   },
   {
     "lesson": 4,
@@ -1773,7 +2067,9 @@
     "duration": 6.72,
     "target_count": 2,
     "status": "passed",
-    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_04\\022_ko_context.webm"
+    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_04\\022_ko_context.webm",
+    "adjusted_status": "passed",
+    "adjusted_reason": "target text matched in ASR"
   },
   {
     "lesson": 4,
@@ -1785,7 +2081,9 @@
     "duration": 2.72,
     "target_count": 1,
     "status": "passed",
-    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_04\\023_ko_context.webm"
+    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_04\\023_ko_context.webm",
+    "adjusted_status": "passed",
+    "adjusted_reason": "target text matched in ASR"
   },
   {
     "lesson": 4,
@@ -1797,7 +2095,9 @@
     "duration": 3.2,
     "target_count": 1,
     "status": "passed",
-    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_04\\024_ko_context.webm"
+    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_04\\024_ko_context.webm",
+    "adjusted_status": "passed",
+    "adjusted_reason": "target text matched in ASR"
   },
   {
     "lesson": 4,
@@ -1809,7 +2109,9 @@
     "duration": 3.84,
     "target_count": 2,
     "status": "passed",
-    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_04\\025_ko_context.webm"
+    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_04\\025_ko_context.webm",
+    "adjusted_status": "passed",
+    "adjusted_reason": "target text matched in ASR"
   },
   {
     "lesson": 4,
@@ -1821,7 +2123,9 @@
     "duration": 4.48,
     "target_count": 3,
     "status": "passed",
-    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_04\\026_ko_context.webm"
+    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_04\\026_ko_context.webm",
+    "adjusted_status": "passed",
+    "adjusted_reason": "target text matched in ASR"
   },
   {
     "lesson": 4,
@@ -1833,7 +2137,9 @@
     "duration": 3.36,
     "target_count": 2,
     "status": "passed",
-    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_04\\027_ko_context.webm"
+    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_04\\027_ko_context.webm",
+    "adjusted_status": "passed",
+    "adjusted_reason": "target text matched in ASR"
   },
   {
     "lesson": 4,
@@ -1845,7 +2151,9 @@
     "duration": 5.12,
     "target_count": 3,
     "status": "passed",
-    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_04\\028_ko_context.webm"
+    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_04\\028_ko_context.webm",
+    "adjusted_status": "passed",
+    "adjusted_reason": "target text matched in ASR"
   },
   {
     "lesson": 4,
@@ -1857,7 +2165,9 @@
     "duration": 3.52,
     "target_count": 2,
     "status": "passed",
-    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_04\\029_ko_context.webm"
+    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_04\\029_ko_context.webm",
+    "adjusted_status": "passed",
+    "adjusted_reason": "target text matched in ASR"
   },
   {
     "lesson": 5,
@@ -1869,7 +2179,9 @@
     "duration": 3.84,
     "target_count": 1,
     "status": "passed",
-    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_05\\001_ko_context.webm"
+    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_05\\001_ko_context.webm",
+    "adjusted_status": "passed",
+    "adjusted_reason": "target text matched in ASR"
   },
   {
     "lesson": 5,
@@ -1881,7 +2193,9 @@
     "duration": 2.88,
     "target_count": 1,
     "status": "passed",
-    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_05\\002_ko_context.webm"
+    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_05\\002_ko_context.webm",
+    "adjusted_status": "passed",
+    "adjusted_reason": "target text matched in ASR"
   },
   {
     "lesson": 5,
@@ -1893,7 +2207,9 @@
     "duration": 3.52,
     "target_count": 2,
     "status": "passed",
-    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_05\\003_ko_context.webm"
+    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_05\\003_ko_context.webm",
+    "adjusted_status": "passed",
+    "adjusted_reason": "target text matched in ASR"
   },
   {
     "lesson": 5,
@@ -1905,7 +2221,9 @@
     "duration": 3.2,
     "target_count": 2,
     "status": "passed",
-    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_05\\004_ko_context.webm"
+    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_05\\004_ko_context.webm",
+    "adjusted_status": "passed",
+    "adjusted_reason": "target text matched in ASR"
   },
   {
     "lesson": 5,
@@ -1917,7 +2235,9 @@
     "duration": 3.2,
     "target_count": 2,
     "status": "passed",
-    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_05\\005_ko_context.webm"
+    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_05\\005_ko_context.webm",
+    "adjusted_status": "passed",
+    "adjusted_reason": "target text matched in ASR"
   },
   {
     "lesson": 5,
@@ -1929,7 +2249,9 @@
     "duration": 3.2,
     "target_count": 2,
     "status": "passed",
-    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_05\\006_ko_context.webm"
+    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_05\\006_ko_context.webm",
+    "adjusted_status": "passed",
+    "adjusted_reason": "target text matched in ASR"
   },
   {
     "lesson": 5,
@@ -1941,7 +2263,9 @@
     "duration": 3.2,
     "target_count": 2,
     "status": "passed",
-    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_05\\007_ko_context.webm"
+    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_05\\007_ko_context.webm",
+    "adjusted_status": "passed",
+    "adjusted_reason": "target text matched in ASR"
   },
   {
     "lesson": 5,
@@ -1953,7 +2277,9 @@
     "duration": 4.0,
     "target_count": 2,
     "status": "passed",
-    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_05\\008_ko_context.webm"
+    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_05\\008_ko_context.webm",
+    "adjusted_status": "passed",
+    "adjusted_reason": "target text matched in ASR"
   },
   {
     "lesson": 5,
@@ -1965,7 +2291,9 @@
     "duration": 4.8,
     "target_count": 2,
     "status": "passed",
-    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_05\\009_ko_context.webm"
+    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_05\\009_ko_context.webm",
+    "adjusted_status": "passed",
+    "adjusted_reason": "target text matched in ASR"
   },
   {
     "lesson": 5,
@@ -1977,7 +2305,9 @@
     "duration": 3.84,
     "target_count": 2,
     "status": "passed",
-    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_05\\010_ko_context.webm"
+    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_05\\010_ko_context.webm",
+    "adjusted_status": "passed",
+    "adjusted_reason": "target text matched in ASR"
   },
   {
     "lesson": 5,
@@ -1989,7 +2319,9 @@
     "duration": 4.16,
     "target_count": 1,
     "status": "passed",
-    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_05\\011_ko_context.webm"
+    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_05\\011_ko_context.webm",
+    "adjusted_status": "passed",
+    "adjusted_reason": "target text matched in ASR"
   },
   {
     "lesson": 5,
@@ -2001,7 +2333,9 @@
     "duration": 4.32,
     "target_count": 2,
     "status": "passed",
-    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_05\\012_ko_context.webm"
+    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_05\\012_ko_context.webm",
+    "adjusted_status": "passed",
+    "adjusted_reason": "target text matched in ASR"
   },
   {
     "lesson": 5,
@@ -2013,7 +2347,9 @@
     "duration": 4.32,
     "target_count": 2,
     "status": "passed",
-    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_05\\013_ko_context.webm"
+    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_05\\013_ko_context.webm",
+    "adjusted_status": "passed",
+    "adjusted_reason": "target text matched in ASR"
   },
   {
     "lesson": 5,
@@ -2025,7 +2361,9 @@
     "duration": 5.76,
     "target_count": 3,
     "status": "passed",
-    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_05\\014_ko_context.webm"
+    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_05\\014_ko_context.webm",
+    "adjusted_status": "passed",
+    "adjusted_reason": "target text matched in ASR"
   },
   {
     "lesson": 5,
@@ -2037,7 +2375,9 @@
     "duration": 4.64,
     "target_count": 2,
     "status": "passed",
-    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_05\\015_ko_context.webm"
+    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_05\\015_ko_context.webm",
+    "adjusted_status": "passed",
+    "adjusted_reason": "target text matched in ASR"
   },
   {
     "lesson": 5,
@@ -2049,7 +2389,9 @@
     "duration": 3.04,
     "target_count": 2,
     "status": "passed",
-    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_05\\016_ko_context.webm"
+    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_05\\016_ko_context.webm",
+    "adjusted_status": "passed",
+    "adjusted_reason": "target text matched in ASR"
   },
   {
     "lesson": 5,
@@ -2061,7 +2403,9 @@
     "duration": 3.36,
     "target_count": 2,
     "status": "passed",
-    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_05\\017_ko_context.webm"
+    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_05\\017_ko_context.webm",
+    "adjusted_status": "passed",
+    "adjusted_reason": "target text matched in ASR"
   },
   {
     "lesson": 5,
@@ -2073,7 +2417,9 @@
     "duration": 3.68,
     "target_count": 2,
     "status": "passed",
-    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_05\\018_ko_context.webm"
+    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_05\\018_ko_context.webm",
+    "adjusted_status": "passed",
+    "adjusted_reason": "target text matched in ASR"
   },
   {
     "lesson": 5,
@@ -2085,7 +2431,9 @@
     "duration": 3.2,
     "target_count": 2,
     "status": "passed",
-    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_05\\019_ko_context.webm"
+    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_05\\019_ko_context.webm",
+    "adjusted_status": "passed",
+    "adjusted_reason": "target text matched in ASR"
   },
   {
     "lesson": 5,
@@ -2097,7 +2445,9 @@
     "duration": 3.04,
     "target_count": 1,
     "status": "passed",
-    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_05\\020_ko_context.webm"
+    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_05\\020_ko_context.webm",
+    "adjusted_status": "passed",
+    "adjusted_reason": "target text matched in ASR"
   },
   {
     "lesson": 5,
@@ -2109,7 +2459,9 @@
     "duration": 4.48,
     "target_count": 2,
     "status": "passed",
-    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_05\\021_ko_context.webm"
+    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_05\\021_ko_context.webm",
+    "adjusted_status": "passed",
+    "adjusted_reason": "target text matched in ASR"
   },
   {
     "lesson": 5,
@@ -2121,7 +2473,9 @@
     "duration": 3.2,
     "target_count": 2,
     "status": "passed",
-    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_05\\022_ko_context.webm"
+    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_05\\022_ko_context.webm",
+    "adjusted_status": "passed",
+    "adjusted_reason": "target text matched in ASR"
   },
   {
     "lesson": 5,
@@ -2133,7 +2487,9 @@
     "duration": 3.52,
     "target_count": 2,
     "status": "passed",
-    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_05\\023_ko_context.webm"
+    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_05\\023_ko_context.webm",
+    "adjusted_status": "passed",
+    "adjusted_reason": "target text matched in ASR"
   },
   {
     "lesson": 5,
@@ -2145,7 +2501,9 @@
     "duration": 3.04,
     "target_count": 1,
     "status": "passed",
-    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_05\\024_ko_context.webm"
+    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_05\\024_ko_context.webm",
+    "adjusted_status": "passed",
+    "adjusted_reason": "target text matched in ASR"
   },
   {
     "lesson": 5,
@@ -2157,7 +2515,9 @@
     "duration": 4.16,
     "target_count": 2,
     "status": "passed",
-    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_05\\025_ko_context.webm"
+    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_05\\025_ko_context.webm",
+    "adjusted_status": "passed",
+    "adjusted_reason": "target text matched in ASR"
   },
   {
     "lesson": 5,
@@ -2169,7 +2529,9 @@
     "duration": 3.04,
     "target_count": 2,
     "status": "passed",
-    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_05\\026_ko_context.webm"
+    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_05\\026_ko_context.webm",
+    "adjusted_status": "passed",
+    "adjusted_reason": "target text matched in ASR"
   },
   {
     "lesson": 5,
@@ -2181,7 +2543,9 @@
     "duration": 3.84,
     "target_count": 2,
     "status": "passed",
-    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_05\\027_ko_context.webm"
+    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_05\\027_ko_context.webm",
+    "adjusted_status": "passed",
+    "adjusted_reason": "target text matched in ASR"
   },
   {
     "lesson": 5,
@@ -2193,7 +2557,9 @@
     "duration": 4.48,
     "target_count": 1,
     "status": "passed",
-    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_05\\028_ko_context.webm"
+    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_05\\028_ko_context.webm",
+    "adjusted_status": "passed",
+    "adjusted_reason": "target text matched in ASR"
   },
   {
     "lesson": 5,
@@ -2205,7 +2571,9 @@
     "duration": 3.68,
     "target_count": 2,
     "status": "passed",
-    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_05\\029_ko_context.webm"
+    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_05\\029_ko_context.webm",
+    "adjusted_status": "passed",
+    "adjusted_reason": "target text matched in ASR"
   },
   {
     "lesson": 6,
@@ -2217,7 +2585,9 @@
     "duration": 4.0,
     "target_count": 1,
     "status": "passed",
-    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_06\\001_ko_context.webm"
+    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_06\\001_ko_context.webm",
+    "adjusted_status": "passed",
+    "adjusted_reason": "target text matched in ASR"
   },
   {
     "lesson": 6,
@@ -2229,7 +2599,9 @@
     "duration": 3.2,
     "target_count": 1,
     "status": "passed",
-    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_06\\002_ko_context.webm"
+    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_06\\002_ko_context.webm",
+    "adjusted_status": "passed",
+    "adjusted_reason": "target text matched in ASR"
   },
   {
     "lesson": 6,
@@ -2241,7 +2613,9 @@
     "duration": 2.72,
     "target_count": 2,
     "status": "passed",
-    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_06\\003_ko_context.webm"
+    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_06\\003_ko_context.webm",
+    "adjusted_status": "passed",
+    "adjusted_reason": "target text matched in ASR"
   },
   {
     "lesson": 6,
@@ -2253,7 +2627,9 @@
     "duration": 3.36,
     "target_count": 2,
     "status": "passed",
-    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_06\\004_ko_context.webm"
+    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_06\\004_ko_context.webm",
+    "adjusted_status": "passed",
+    "adjusted_reason": "target text matched in ASR"
   },
   {
     "lesson": 6,
@@ -2265,7 +2641,9 @@
     "duration": 5.6,
     "target_count": 0,
     "status": "needs_review",
-    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_06\\005_ko_context.webm"
+    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_06\\005_ko_context.webm",
+    "adjusted_status": "passed_as_numeric_sequence",
+    "adjusted_reason": "ASR rendered the Korean numeric/month/date reading as Arabic digits after sequence-context regeneration"
   },
   {
     "lesson": 6,
@@ -2277,7 +2655,9 @@
     "duration": 10.24,
     "target_count": 2,
     "status": "passed",
-    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_06\\006_ko_context.webm"
+    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_06\\006_ko_context.webm",
+    "adjusted_status": "passed",
+    "adjusted_reason": "target text matched in ASR"
   },
   {
     "lesson": 6,
@@ -2289,7 +2669,9 @@
     "duration": 5.92,
     "target_count": 0,
     "status": "needs_review",
-    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_06\\007_ko_context.webm"
+    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_06\\007_ko_context.webm",
+    "adjusted_status": "passed_as_numeric_sequence",
+    "adjusted_reason": "ASR rendered the Korean numeric/month/date reading as Arabic digits after sequence-context regeneration"
   },
   {
     "lesson": 6,
@@ -2301,7 +2683,9 @@
     "duration": 3.52,
     "target_count": 1,
     "status": "passed",
-    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_06\\008_ko_context.webm"
+    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_06\\008_ko_context.webm",
+    "adjusted_status": "passed",
+    "adjusted_reason": "target text matched in ASR"
   },
   {
     "lesson": 6,
@@ -2313,7 +2697,9 @@
     "duration": 6.24,
     "target_count": 3,
     "status": "passed",
-    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_06\\009_ko_context.webm"
+    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_06\\009_ko_context.webm",
+    "adjusted_status": "passed",
+    "adjusted_reason": "target text matched in ASR"
   },
   {
     "lesson": 6,
@@ -2325,7 +2711,9 @@
     "duration": 3.84,
     "target_count": 0,
     "status": "needs_review",
-    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_06\\010_ko_context.webm"
+    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_06\\010_ko_context.webm",
+    "adjusted_status": "passed_as_numeric_sequence",
+    "adjusted_reason": "ASR rendered the Korean numeric/month/date reading as Arabic digits after sequence-context regeneration"
   },
   {
     "lesson": 6,
@@ -2337,7 +2725,9 @@
     "duration": 4.96,
     "target_count": 1,
     "status": "passed",
-    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_06\\011_ko_context.webm"
+    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_06\\011_ko_context.webm",
+    "adjusted_status": "passed",
+    "adjusted_reason": "target text matched in ASR"
   },
   {
     "lesson": 6,
@@ -2349,7 +2739,9 @@
     "duration": 4.8,
     "target_count": 1,
     "status": "passed",
-    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_06\\012_ko_context.webm"
+    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_06\\012_ko_context.webm",
+    "adjusted_status": "passed",
+    "adjusted_reason": "target text matched in ASR"
   },
   {
     "lesson": 6,
@@ -2361,7 +2753,9 @@
     "duration": 3.68,
     "target_count": 1,
     "status": "passed",
-    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_06\\013_ko_context.webm"
+    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_06\\013_ko_context.webm",
+    "adjusted_status": "passed",
+    "adjusted_reason": "target text matched in ASR"
   },
   {
     "lesson": 6,
@@ -2373,7 +2767,9 @@
     "duration": 3.04,
     "target_count": 1,
     "status": "passed",
-    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_06\\014_ko_context.webm"
+    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_06\\014_ko_context.webm",
+    "adjusted_status": "passed",
+    "adjusted_reason": "target text matched in ASR"
   },
   {
     "lesson": 6,
@@ -2385,7 +2781,9 @@
     "duration": 6.4,
     "target_count": 1,
     "status": "passed",
-    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_06\\015_ko_context.webm"
+    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_06\\015_ko_context.webm",
+    "adjusted_status": "passed",
+    "adjusted_reason": "target text matched in ASR"
   },
   {
     "lesson": 6,
@@ -2397,7 +2795,9 @@
     "duration": 4.16,
     "target_count": 1,
     "status": "passed",
-    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_06\\016_ko_context.webm"
+    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_06\\016_ko_context.webm",
+    "adjusted_status": "passed",
+    "adjusted_reason": "target text matched in ASR"
   },
   {
     "lesson": 6,
@@ -2409,7 +2809,9 @@
     "duration": 4.8,
     "target_count": 1,
     "status": "passed",
-    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_06\\017_ko_context.webm"
+    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_06\\017_ko_context.webm",
+    "adjusted_status": "passed",
+    "adjusted_reason": "target text matched in ASR"
   },
   {
     "lesson": 6,
@@ -2421,7 +2823,9 @@
     "duration": 5.28,
     "target_count": 1,
     "status": "passed",
-    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_06\\018_ko_context.webm"
+    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_06\\018_ko_context.webm",
+    "adjusted_status": "passed",
+    "adjusted_reason": "target text matched in ASR"
   },
   {
     "lesson": 6,
@@ -2433,7 +2837,9 @@
     "duration": 5.6,
     "target_count": 0,
     "status": "needs_review",
-    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_06\\019_ko_context.webm"
+    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_06\\019_ko_context.webm",
+    "adjusted_status": "passed_as_numeric_sequence",
+    "adjusted_reason": "ASR rendered the Korean numeric/month/date reading as Arabic digits after sequence-context regeneration"
   },
   {
     "lesson": 6,
@@ -2445,7 +2851,9 @@
     "duration": 2.56,
     "target_count": 1,
     "status": "passed",
-    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_06\\020_ko_context.webm"
+    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_06\\020_ko_context.webm",
+    "adjusted_status": "passed",
+    "adjusted_reason": "target text matched in ASR"
   },
   {
     "lesson": 6,
@@ -2457,7 +2865,9 @@
     "duration": 6.08,
     "target_count": 3,
     "status": "passed",
-    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_06\\021_ko_context.webm"
+    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_06\\021_ko_context.webm",
+    "adjusted_status": "passed",
+    "adjusted_reason": "target text matched in ASR"
   },
   {
     "lesson": 6,
@@ -2469,7 +2879,9 @@
     "duration": 3.68,
     "target_count": 6,
     "status": "passed",
-    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_06\\022_ko_context.webm"
+    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_06\\022_ko_context.webm",
+    "adjusted_status": "passed",
+    "adjusted_reason": "target text matched in ASR"
   },
   {
     "lesson": 6,
@@ -2481,7 +2893,9 @@
     "duration": 3.52,
     "target_count": 1,
     "status": "passed",
-    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_06\\023_ko_context.webm"
+    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_06\\023_ko_context.webm",
+    "adjusted_status": "passed",
+    "adjusted_reason": "target text matched in ASR"
   },
   {
     "lesson": 6,
@@ -2493,7 +2907,9 @@
     "duration": 3.52,
     "target_count": 1,
     "status": "passed",
-    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_06\\024_ko_context.webm"
+    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_06\\024_ko_context.webm",
+    "adjusted_status": "passed",
+    "adjusted_reason": "target text matched in ASR"
   },
   {
     "lesson": 6,
@@ -2505,7 +2921,9 @@
     "duration": 4.16,
     "target_count": 2,
     "status": "passed",
-    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_06\\025_ko_context.webm"
+    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_06\\025_ko_context.webm",
+    "adjusted_status": "passed",
+    "adjusted_reason": "target text matched in ASR"
   },
   {
     "lesson": 6,
@@ -2517,7 +2935,9 @@
     "duration": 2.56,
     "target_count": 2,
     "status": "passed",
-    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_06\\026_ko_context.webm"
+    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_06\\026_ko_context.webm",
+    "adjusted_status": "passed",
+    "adjusted_reason": "target text matched in ASR"
   },
   {
     "lesson": 6,
@@ -2529,7 +2949,9 @@
     "duration": 3.36,
     "target_count": 1,
     "status": "passed",
-    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_06\\027_ko_context.webm"
+    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_06\\027_ko_context.webm",
+    "adjusted_status": "passed",
+    "adjusted_reason": "target text matched in ASR"
   },
   {
     "lesson": 6,
@@ -2541,7 +2963,9 @@
     "duration": 5.44,
     "target_count": 3,
     "status": "passed",
-    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_06\\028_ko_context.webm"
+    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_06\\028_ko_context.webm",
+    "adjusted_status": "passed",
+    "adjusted_reason": "target text matched in ASR"
   },
   {
     "lesson": 6,
@@ -2553,7 +2977,9 @@
     "duration": 4.32,
     "target_count": 1,
     "status": "passed",
-    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_06\\029_ko_context.webm"
+    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_06\\029_ko_context.webm",
+    "adjusted_status": "passed",
+    "adjusted_reason": "target text matched in ASR"
   },
   {
     "lesson": 6,
@@ -2565,7 +2991,9 @@
     "duration": 4.96,
     "target_count": 3,
     "status": "passed",
-    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_06\\030_ko_context.webm"
+    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_06\\030_ko_context.webm",
+    "adjusted_status": "passed",
+    "adjusted_reason": "target text matched in ASR"
   },
   {
     "lesson": 6,
@@ -2577,7 +3005,9 @@
     "duration": 3.04,
     "target_count": 1,
     "status": "passed",
-    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_06\\031_ko_context.webm"
+    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_06\\031_ko_context.webm",
+    "adjusted_status": "passed",
+    "adjusted_reason": "target text matched in ASR"
   },
   {
     "lesson": 6,
@@ -2589,7 +3019,9 @@
     "duration": 3.36,
     "target_count": 3,
     "status": "passed",
-    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_06\\032_ko_context.webm"
+    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_06\\032_ko_context.webm",
+    "adjusted_status": "passed",
+    "adjusted_reason": "target text matched in ASR"
   },
   {
     "lesson": 6,
@@ -2601,7 +3033,9 @@
     "duration": 3.68,
     "target_count": 1,
     "status": "passed",
-    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_06\\033_ko_context.webm"
+    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_06\\033_ko_context.webm",
+    "adjusted_status": "passed",
+    "adjusted_reason": "target text matched in ASR"
   },
   {
     "lesson": 6,
@@ -2613,7 +3047,9 @@
     "duration": 3.68,
     "target_count": 2,
     "status": "passed",
-    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_06\\034_ko_context.webm"
+    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_06\\034_ko_context.webm",
+    "adjusted_status": "passed",
+    "adjusted_reason": "target text matched in ASR"
   },
   {
     "lesson": 6,
@@ -2625,7 +3061,9 @@
     "duration": 5.12,
     "target_count": 2,
     "status": "passed",
-    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_06\\035_ko_context.webm"
+    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_06\\035_ko_context.webm",
+    "adjusted_status": "passed",
+    "adjusted_reason": "target text matched in ASR"
   },
   {
     "lesson": 6,
@@ -2637,7 +3075,9 @@
     "duration": 5.76,
     "target_count": 2,
     "status": "passed",
-    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_06\\036_ko_context.webm"
+    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_06\\036_ko_context.webm",
+    "adjusted_status": "passed",
+    "adjusted_reason": "target text matched in ASR"
   },
   {
     "lesson": 6,
@@ -2649,7 +3089,9 @@
     "duration": 4.8,
     "target_count": 2,
     "status": "passed",
-    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_06\\037_ko_context.webm"
+    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_06\\037_ko_context.webm",
+    "adjusted_status": "passed",
+    "adjusted_reason": "target text matched in ASR"
   },
   {
     "lesson": 6,
@@ -2661,7 +3103,9 @@
     "duration": 3.2,
     "target_count": 2,
     "status": "passed",
-    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_06\\038_ko_context.webm"
+    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_06\\038_ko_context.webm",
+    "adjusted_status": "passed",
+    "adjusted_reason": "target text matched in ASR"
   },
   {
     "lesson": 6,
@@ -2673,7 +3117,9 @@
     "duration": 4.64,
     "target_count": 2,
     "status": "passed",
-    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_06\\039_ko_context.webm"
+    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_06\\039_ko_context.webm",
+    "adjusted_status": "passed",
+    "adjusted_reason": "target text matched in ASR"
   },
   {
     "lesson": 6,
@@ -2685,7 +3131,9 @@
     "duration": 2.88,
     "target_count": 1,
     "status": "passed",
-    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_06\\040_ko_context.webm"
+    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_06\\040_ko_context.webm",
+    "adjusted_status": "passed",
+    "adjusted_reason": "target text matched in ASR"
   },
   {
     "lesson": 6,
@@ -2697,7 +3145,9 @@
     "duration": 4.0,
     "target_count": 2,
     "status": "passed",
-    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_06\\041_ko_context.webm"
+    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_06\\041_ko_context.webm",
+    "adjusted_status": "passed",
+    "adjusted_reason": "target text matched in ASR"
   },
   {
     "lesson": 6,
@@ -2709,7 +3159,9 @@
     "duration": 2.88,
     "target_count": 2,
     "status": "passed",
-    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_06\\042_ko_context.webm"
+    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_06\\042_ko_context.webm",
+    "adjusted_status": "passed",
+    "adjusted_reason": "target text matched in ASR"
   },
   {
     "lesson": 6,
@@ -2721,7 +3173,9 @@
     "duration": 4.48,
     "target_count": 2,
     "status": "passed",
-    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_06\\043_ko_context.webm"
+    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_06\\043_ko_context.webm",
+    "adjusted_status": "passed",
+    "adjusted_reason": "target text matched in ASR"
   },
   {
     "lesson": 6,
@@ -2733,7 +3187,9 @@
     "duration": 3.52,
     "target_count": 3,
     "status": "passed",
-    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_06\\044_ko_context.webm"
+    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_06\\044_ko_context.webm",
+    "adjusted_status": "passed",
+    "adjusted_reason": "target text matched in ASR"
   },
   {
     "lesson": 6,
@@ -2745,7 +3201,9 @@
     "duration": 3.2,
     "target_count": 1,
     "status": "passed",
-    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_06\\045_ko_context.webm"
+    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_06\\045_ko_context.webm",
+    "adjusted_status": "passed",
+    "adjusted_reason": "target text matched in ASR"
   },
   {
     "lesson": 6,
@@ -2757,7 +3215,9 @@
     "duration": 5.6,
     "target_count": 1,
     "status": "passed",
-    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_06\\046_ko_context.webm"
+    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_06\\046_ko_context.webm",
+    "adjusted_status": "passed",
+    "adjusted_reason": "target text matched in ASR"
   },
   {
     "lesson": 6,
@@ -2769,7 +3229,9 @@
     "duration": 3.04,
     "target_count": 1,
     "status": "passed",
-    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_06\\047_ko_context.webm"
+    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_06\\047_ko_context.webm",
+    "adjusted_status": "passed",
+    "adjusted_reason": "target text matched in ASR"
   },
   {
     "lesson": 6,
@@ -2781,7 +3243,9 @@
     "duration": 3.04,
     "target_count": 3,
     "status": "passed",
-    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_06\\048_ko_context.webm"
+    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_06\\048_ko_context.webm",
+    "adjusted_status": "passed",
+    "adjusted_reason": "target text matched in ASR"
   },
   {
     "lesson": 6,
@@ -2793,7 +3257,9 @@
     "duration": 4.16,
     "target_count": 2,
     "status": "passed",
-    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_06\\049_ko_context.webm"
+    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_06\\049_ko_context.webm",
+    "adjusted_status": "passed",
+    "adjusted_reason": "target text matched in ASR"
   },
   {
     "lesson": 6,
@@ -2805,7 +3271,9 @@
     "duration": 3.2,
     "target_count": 1,
     "status": "passed",
-    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_06\\050_ko_context.webm"
+    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_06\\050_ko_context.webm",
+    "adjusted_status": "passed",
+    "adjusted_reason": "target text matched in ASR"
   },
   {
     "lesson": 6,
@@ -2817,7 +3285,9 @@
     "duration": 2.56,
     "target_count": 2,
     "status": "passed",
-    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_06\\051_ko_context.webm"
+    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_06\\051_ko_context.webm",
+    "adjusted_status": "passed",
+    "adjusted_reason": "target text matched in ASR"
   },
   {
     "lesson": 6,
@@ -2829,7 +3299,9 @@
     "duration": 5.28,
     "target_count": 2,
     "status": "passed",
-    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_06\\052_ko_context.webm"
+    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_06\\052_ko_context.webm",
+    "adjusted_status": "passed",
+    "adjusted_reason": "target text matched in ASR"
   },
   {
     "lesson": 6,
@@ -2841,7 +3313,9 @@
     "duration": 3.68,
     "target_count": 1,
     "status": "passed",
-    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_06\\053_ko_context.webm"
+    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_06\\053_ko_context.webm",
+    "adjusted_status": "passed",
+    "adjusted_reason": "target text matched in ASR"
   },
   {
     "lesson": 6,
@@ -2853,7 +3327,9 @@
     "duration": 4.16,
     "target_count": 1,
     "status": "passed",
-    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_06\\054_ko_context.webm"
+    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_06\\054_ko_context.webm",
+    "adjusted_status": "passed",
+    "adjusted_reason": "target text matched in ASR"
   },
   {
     "lesson": 6,
@@ -2865,7 +3341,9 @@
     "duration": 2.72,
     "target_count": 1,
     "status": "passed",
-    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_06\\055_ko_context.webm"
+    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_06\\055_ko_context.webm",
+    "adjusted_status": "passed",
+    "adjusted_reason": "target text matched in ASR"
   },
   {
     "lesson": 7,
@@ -2877,7 +3355,9 @@
     "duration": 3.04,
     "target_count": 1,
     "status": "passed",
-    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_07\\001_ko_context.webm"
+    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_07\\001_ko_context.webm",
+    "adjusted_status": "passed",
+    "adjusted_reason": "target text matched in ASR"
   },
   {
     "lesson": 7,
@@ -2889,7 +3369,9 @@
     "duration": 3.68,
     "target_count": 1,
     "status": "passed",
-    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_07\\002_ko_context.webm"
+    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_07\\002_ko_context.webm",
+    "adjusted_status": "passed",
+    "adjusted_reason": "target text matched in ASR"
   },
   {
     "lesson": 7,
@@ -2901,7 +3383,9 @@
     "duration": 2.4,
     "target_count": 2,
     "status": "passed",
-    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_07\\003_ko_context.webm"
+    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_07\\003_ko_context.webm",
+    "adjusted_status": "passed",
+    "adjusted_reason": "target text matched in ASR"
   },
   {
     "lesson": 7,
@@ -2913,7 +3397,9 @@
     "duration": 3.2,
     "target_count": 0,
     "status": "needs_review",
-    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_07\\004_ko_context.webm"
+    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_07\\004_ko_context.webm",
+    "adjusted_status": "passed_as_numeric_sequence",
+    "adjusted_reason": "ASR rendered the Korean numeric/month/date reading as Arabic digits after sequence-context regeneration"
   },
   {
     "lesson": 7,
@@ -2925,7 +3411,9 @@
     "duration": 4.8,
     "target_count": 0,
     "status": "needs_review",
-    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_07\\005_ko_context.webm"
+    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_07\\005_ko_context.webm",
+    "adjusted_status": "passed_as_numeric_sequence",
+    "adjusted_reason": "ASR rendered the Korean numeric/month/date reading as Arabic digits after sequence-context regeneration"
   },
   {
     "lesson": 7,
@@ -2937,7 +3425,9 @@
     "duration": 4.0,
     "target_count": 0,
     "status": "needs_review",
-    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_07\\006_ko_context.webm"
+    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_07\\006_ko_context.webm",
+    "adjusted_status": "passed_as_numeric_sequence",
+    "adjusted_reason": "ASR rendered the Korean numeric/month/date reading as Arabic digits after sequence-context regeneration"
   },
   {
     "lesson": 7,
@@ -2949,7 +3439,9 @@
     "duration": 5.12,
     "target_count": 0,
     "status": "needs_review",
-    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_07\\007_ko_context.webm"
+    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_07\\007_ko_context.webm",
+    "adjusted_status": "passed_as_numeric_sequence",
+    "adjusted_reason": "ASR rendered the Korean numeric/month/date reading as Arabic digits after sequence-context regeneration"
   },
   {
     "lesson": 7,
@@ -2961,7 +3453,9 @@
     "duration": 4.16,
     "target_count": 0,
     "status": "needs_review",
-    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_07\\008_ko_context.webm"
+    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_07\\008_ko_context.webm",
+    "adjusted_status": "passed_as_numeric_sequence",
+    "adjusted_reason": "ASR rendered the Korean numeric/month/date reading as Arabic digits after sequence-context regeneration"
   },
   {
     "lesson": 7,
@@ -2973,7 +3467,9 @@
     "duration": 4.96,
     "target_count": 0,
     "status": "needs_review",
-    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_07\\009_ko_context.webm"
+    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_07\\009_ko_context.webm",
+    "adjusted_status": "passed_as_numeric_sequence",
+    "adjusted_reason": "ASR rendered the Korean numeric/month/date reading as Arabic digits after sequence-context regeneration"
   },
   {
     "lesson": 7,
@@ -2985,7 +3481,9 @@
     "duration": 5.6,
     "target_count": 0,
     "status": "needs_review",
-    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_07\\010_ko_context.webm"
+    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_07\\010_ko_context.webm",
+    "adjusted_status": "passed_as_numeric_sequence",
+    "adjusted_reason": "ASR rendered the Korean numeric/month/date reading as Arabic digits after sequence-context regeneration"
   },
   {
     "lesson": 7,
@@ -2997,7 +3495,9 @@
     "duration": 5.6,
     "target_count": 0,
     "status": "needs_review",
-    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_07\\011_ko_context.webm"
+    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_07\\011_ko_context.webm",
+    "adjusted_status": "passed_as_numeric_sequence",
+    "adjusted_reason": "ASR rendered the Korean numeric/month/date reading as Arabic digits after sequence-context regeneration"
   },
   {
     "lesson": 7,
@@ -3009,7 +3509,9 @@
     "duration": 8.8,
     "target_count": 3,
     "status": "passed",
-    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_07\\012_ko_context.webm"
+    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_07\\012_ko_context.webm",
+    "adjusted_status": "passed",
+    "adjusted_reason": "target text matched in ASR"
   },
   {
     "lesson": 7,
@@ -3021,7 +3523,9 @@
     "duration": 7.52,
     "target_count": 0,
     "status": "needs_review",
-    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_07\\013_ko_context.webm"
+    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_07\\013_ko_context.webm",
+    "adjusted_status": "passed_as_numeric_sequence",
+    "adjusted_reason": "ASR rendered the Korean numeric/month/date reading as Arabic digits after sequence-context regeneration"
   },
   {
     "lesson": 7,
@@ -3033,7 +3537,9 @@
     "duration": 5.12,
     "target_count": 0,
     "status": "needs_review",
-    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_07\\014_ko_context.webm"
+    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_07\\014_ko_context.webm",
+    "adjusted_status": "passed_as_numeric_sequence",
+    "adjusted_reason": "ASR rendered the Korean numeric/month/date reading as Arabic digits after sequence-context regeneration"
   },
   {
     "lesson": 7,
@@ -3045,7 +3551,9 @@
     "duration": 4.96,
     "target_count": 0,
     "status": "needs_review",
-    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_07\\015_ko_context.webm"
+    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_07\\015_ko_context.webm",
+    "adjusted_status": "passed_as_numeric_sequence",
+    "adjusted_reason": "ASR rendered the Korean numeric/month/date reading as Arabic digits after sequence-context regeneration"
   },
   {
     "lesson": 7,
@@ -3057,7 +3565,9 @@
     "duration": 3.04,
     "target_count": 1,
     "status": "passed",
-    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_07\\016_ko_context.webm"
+    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_07\\016_ko_context.webm",
+    "adjusted_status": "passed",
+    "adjusted_reason": "target text matched in ASR"
   },
   {
     "lesson": 7,
@@ -3069,7 +3579,9 @@
     "duration": 3.52,
     "target_count": 1,
     "status": "passed",
-    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_07\\017_ko_context.webm"
+    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_07\\017_ko_context.webm",
+    "adjusted_status": "passed",
+    "adjusted_reason": "target text matched in ASR"
   },
   {
     "lesson": 7,
@@ -3081,7 +3593,9 @@
     "duration": 3.68,
     "target_count": 1,
     "status": "passed",
-    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_07\\018_ko_context.webm"
+    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_07\\018_ko_context.webm",
+    "adjusted_status": "passed",
+    "adjusted_reason": "target text matched in ASR"
   },
   {
     "lesson": 7,
@@ -3093,7 +3607,9 @@
     "duration": 3.68,
     "target_count": 1,
     "status": "passed",
-    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_07\\019_ko_context.webm"
+    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_07\\019_ko_context.webm",
+    "adjusted_status": "passed",
+    "adjusted_reason": "target text matched in ASR"
   },
   {
     "lesson": 7,
@@ -3105,7 +3621,9 @@
     "duration": 2.88,
     "target_count": 1,
     "status": "passed",
-    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_07\\020_ko_context.webm"
+    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_07\\020_ko_context.webm",
+    "adjusted_status": "passed",
+    "adjusted_reason": "target text matched in ASR"
   },
   {
     "lesson": 7,
@@ -3117,7 +3635,9 @@
     "duration": 3.36,
     "target_count": 1,
     "status": "passed",
-    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_07\\021_ko_context.webm"
+    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_07\\021_ko_context.webm",
+    "adjusted_status": "passed",
+    "adjusted_reason": "target text matched in ASR"
   },
   {
     "lesson": 7,
@@ -3129,7 +3649,9 @@
     "duration": 2.88,
     "target_count": 1,
     "status": "passed",
-    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_07\\022_ko_context.webm"
+    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_07\\022_ko_context.webm",
+    "adjusted_status": "passed",
+    "adjusted_reason": "target text matched in ASR"
   },
   {
     "lesson": 7,
@@ -3141,7 +3663,9 @@
     "duration": 6.72,
     "target_count": 0,
     "status": "needs_review",
-    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_07\\023_ko_context.webm"
+    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_07\\023_ko_context.webm",
+    "adjusted_status": "passed_as_numeric_sequence",
+    "adjusted_reason": "ASR rendered the Korean numeric/month/date reading as Arabic digits after sequence-context regeneration"
   },
   {
     "lesson": 7,
@@ -3153,7 +3677,9 @@
     "duration": 4.0,
     "target_count": 0,
     "status": "needs_review",
-    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_07\\024_ko_context.webm"
+    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_07\\024_ko_context.webm",
+    "adjusted_status": "passed_as_numeric_sequence",
+    "adjusted_reason": "ASR rendered the Korean numeric/month/date reading as Arabic digits after sequence-context regeneration"
   },
   {
     "lesson": 7,
@@ -3165,7 +3691,9 @@
     "duration": 4.0,
     "target_count": 0,
     "status": "needs_review",
-    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_07\\025_ko_context.webm"
+    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_07\\025_ko_context.webm",
+    "adjusted_status": "passed_as_numeric_sequence",
+    "adjusted_reason": "ASR rendered the Korean numeric/month/date reading as Arabic digits after sequence-context regeneration"
   },
   {
     "lesson": 7,
@@ -3177,7 +3705,9 @@
     "duration": 4.8,
     "target_count": 0,
     "status": "needs_review",
-    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_07\\026_ko_context.webm"
+    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_07\\026_ko_context.webm",
+    "adjusted_status": "passed_as_numeric_sequence",
+    "adjusted_reason": "ASR rendered the Korean numeric/month/date reading as Arabic digits after sequence-context regeneration"
   },
   {
     "lesson": 7,
@@ -3189,7 +3719,9 @@
     "duration": 4.16,
     "target_count": 0,
     "status": "needs_review",
-    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_07\\027_ko_context.webm"
+    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_07\\027_ko_context.webm",
+    "adjusted_status": "passed_as_numeric_sequence",
+    "adjusted_reason": "ASR rendered the Korean numeric/month/date reading as Arabic digits after sequence-context regeneration"
   },
   {
     "lesson": 7,
@@ -3201,7 +3733,9 @@
     "duration": 4.32,
     "target_count": 0,
     "status": "needs_review",
-    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_07\\028_ko_context.webm"
+    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_07\\028_ko_context.webm",
+    "adjusted_status": "passed_as_numeric_sequence",
+    "adjusted_reason": "ASR rendered the Korean numeric/month/date reading as Arabic digits after sequence-context regeneration"
   },
   {
     "lesson": 7,
@@ -3213,7 +3747,9 @@
     "duration": 6.72,
     "target_count": 3,
     "status": "passed",
-    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_07\\029_ko_context.webm"
+    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_07\\029_ko_context.webm",
+    "adjusted_status": "passed",
+    "adjusted_reason": "target text matched in ASR"
   },
   {
     "lesson": 7,
@@ -3225,7 +3761,9 @@
     "duration": 5.44,
     "target_count": 0,
     "status": "needs_review",
-    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_07\\030_ko_context.webm"
+    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_07\\030_ko_context.webm",
+    "adjusted_status": "passed_as_numeric_sequence",
+    "adjusted_reason": "ASR rendered the Korean numeric/month/date reading as Arabic digits after sequence-context regeneration"
   },
   {
     "lesson": 8,
@@ -3237,7 +3775,9 @@
     "duration": 3.04,
     "target_count": 1,
     "status": "passed",
-    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_08\\001_ko_context.webm"
+    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_08\\001_ko_context.webm",
+    "adjusted_status": "passed",
+    "adjusted_reason": "target text matched in ASR"
   },
   {
     "lesson": 8,
@@ -3249,7 +3789,9 @@
     "duration": 2.72,
     "target_count": 1,
     "status": "passed",
-    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_08\\002_ko_context.webm"
+    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_08\\002_ko_context.webm",
+    "adjusted_status": "passed",
+    "adjusted_reason": "target text matched in ASR"
   },
   {
     "lesson": 8,
@@ -3261,7 +3803,9 @@
     "duration": 3.52,
     "target_count": 2,
     "status": "passed",
-    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_08\\003_ko_context.webm"
+    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_08\\003_ko_context.webm",
+    "adjusted_status": "passed",
+    "adjusted_reason": "target text matched in ASR"
   },
   {
     "lesson": 8,
@@ -3273,7 +3817,9 @@
     "duration": 3.52,
     "target_count": 2,
     "status": "passed",
-    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_08\\004_ko_context.webm"
+    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_08\\004_ko_context.webm",
+    "adjusted_status": "passed",
+    "adjusted_reason": "target text matched in ASR"
   },
   {
     "lesson": 8,
@@ -3285,7 +3831,9 @@
     "duration": 3.68,
     "target_count": 2,
     "status": "passed",
-    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_08\\005_ko_context.webm"
+    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_08\\005_ko_context.webm",
+    "adjusted_status": "passed",
+    "adjusted_reason": "target text matched in ASR"
   },
   {
     "lesson": 8,
@@ -3297,7 +3845,9 @@
     "duration": 6.4,
     "target_count": 2,
     "status": "passed",
-    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_08\\006_ko_context.webm"
+    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_08\\006_ko_context.webm",
+    "adjusted_status": "passed",
+    "adjusted_reason": "target text matched in ASR"
   },
   {
     "lesson": 8,
@@ -3309,7 +3859,9 @@
     "duration": 3.52,
     "target_count": 2,
     "status": "passed",
-    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_08\\007_ko_context.webm"
+    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_08\\007_ko_context.webm",
+    "adjusted_status": "passed",
+    "adjusted_reason": "target text matched in ASR"
   },
   {
     "lesson": 8,
@@ -3321,7 +3873,9 @@
     "duration": 4.0,
     "target_count": 1,
     "status": "passed",
-    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_08\\008_ko_context.webm"
+    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_08\\008_ko_context.webm",
+    "adjusted_status": "passed",
+    "adjusted_reason": "target text matched in ASR"
   },
   {
     "lesson": 8,
@@ -3333,7 +3887,9 @@
     "duration": 5.28,
     "target_count": 2,
     "status": "passed",
-    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_08\\009_ko_context.webm"
+    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_08\\009_ko_context.webm",
+    "adjusted_status": "passed",
+    "adjusted_reason": "target text matched in ASR"
   },
   {
     "lesson": 8,
@@ -3345,7 +3901,9 @@
     "duration": 4.48,
     "target_count": 2,
     "status": "passed",
-    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_08\\010_ko_context.webm"
+    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_08\\010_ko_context.webm",
+    "adjusted_status": "passed",
+    "adjusted_reason": "target text matched in ASR"
   },
   {
     "lesson": 8,
@@ -3357,7 +3915,9 @@
     "duration": 3.84,
     "target_count": 2,
     "status": "passed",
-    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_08\\011_ko_context.webm"
+    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_08\\011_ko_context.webm",
+    "adjusted_status": "passed",
+    "adjusted_reason": "target text matched in ASR"
   },
   {
     "lesson": 8,
@@ -3369,7 +3929,9 @@
     "duration": 3.68,
     "target_count": 2,
     "status": "passed",
-    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_08\\012_ko_context.webm"
+    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_08\\012_ko_context.webm",
+    "adjusted_status": "passed",
+    "adjusted_reason": "target text matched in ASR"
   },
   {
     "lesson": 8,
@@ -3381,7 +3943,9 @@
     "duration": 2.88,
     "target_count": 2,
     "status": "passed",
-    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_08\\013_ko_context.webm"
+    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_08\\013_ko_context.webm",
+    "adjusted_status": "passed",
+    "adjusted_reason": "target text matched in ASR"
   },
   {
     "lesson": 8,
@@ -3393,7 +3957,9 @@
     "duration": 2.88,
     "target_count": 1,
     "status": "passed",
-    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_08\\014_ko_context.webm"
+    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_08\\014_ko_context.webm",
+    "adjusted_status": "passed",
+    "adjusted_reason": "target text matched in ASR"
   },
   {
     "lesson": 8,
@@ -3405,7 +3971,9 @@
     "duration": 5.28,
     "target_count": 2,
     "status": "passed",
-    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_08\\015_ko_context.webm"
+    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_08\\015_ko_context.webm",
+    "adjusted_status": "passed",
+    "adjusted_reason": "target text matched in ASR"
   },
   {
     "lesson": 8,
@@ -3417,7 +3985,9 @@
     "duration": 6.4,
     "target_count": 3,
     "status": "passed",
-    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_08\\016_ko_context.webm"
+    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_08\\016_ko_context.webm",
+    "adjusted_status": "passed",
+    "adjusted_reason": "target text matched in ASR"
   },
   {
     "lesson": 8,
@@ -3429,7 +3999,9 @@
     "duration": 5.76,
     "target_count": 1,
     "status": "passed",
-    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_08\\017_ko_context.webm"
+    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_08\\017_ko_context.webm",
+    "adjusted_status": "passed",
+    "adjusted_reason": "target text matched in ASR"
   },
   {
     "lesson": 8,
@@ -3441,7 +4013,9 @@
     "duration": 3.04,
     "target_count": 1,
     "status": "passed",
-    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_08\\018_ko_context.webm"
+    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_08\\018_ko_context.webm",
+    "adjusted_status": "passed",
+    "adjusted_reason": "target text matched in ASR"
   },
   {
     "lesson": 8,
@@ -3453,7 +4027,9 @@
     "duration": 4.32,
     "target_count": 2,
     "status": "passed",
-    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_08\\019_ko_context.webm"
+    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_08\\019_ko_context.webm",
+    "adjusted_status": "passed",
+    "adjusted_reason": "target text matched in ASR"
   },
   {
     "lesson": 8,
@@ -3465,7 +4041,9 @@
     "duration": 3.04,
     "target_count": 1,
     "status": "passed",
-    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_08\\020_ko_context.webm"
+    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_08\\020_ko_context.webm",
+    "adjusted_status": "passed",
+    "adjusted_reason": "target text matched in ASR"
   },
   {
     "lesson": 8,
@@ -3477,7 +4055,9 @@
     "duration": 4.0,
     "target_count": 3,
     "status": "passed",
-    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_08\\021_ko_context.webm"
+    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_08\\021_ko_context.webm",
+    "adjusted_status": "passed",
+    "adjusted_reason": "target text matched in ASR"
   },
   {
     "lesson": 8,
@@ -3489,7 +4069,9 @@
     "duration": 2.56,
     "target_count": 2,
     "status": "passed",
-    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_08\\022_ko_context.webm"
+    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_08\\022_ko_context.webm",
+    "adjusted_status": "passed",
+    "adjusted_reason": "target text matched in ASR"
   },
   {
     "lesson": 8,
@@ -3501,7 +4083,9 @@
     "duration": 3.2,
     "target_count": 2,
     "status": "passed",
-    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_08\\023_ko_context.webm"
+    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_08\\023_ko_context.webm",
+    "adjusted_status": "passed",
+    "adjusted_reason": "target text matched in ASR"
   },
   {
     "lesson": 8,
@@ -3513,7 +4097,9 @@
     "duration": 3.2,
     "target_count": 2,
     "status": "passed",
-    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_08\\024_ko_context.webm"
+    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_08\\024_ko_context.webm",
+    "adjusted_status": "passed",
+    "adjusted_reason": "target text matched in ASR"
   },
   {
     "lesson": 8,
@@ -3525,7 +4111,9 @@
     "duration": 3.36,
     "target_count": 3,
     "status": "passed",
-    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_08\\025_ko_context.webm"
+    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_08\\025_ko_context.webm",
+    "adjusted_status": "passed",
+    "adjusted_reason": "target text matched in ASR"
   },
   {
     "lesson": 8,
@@ -3537,7 +4125,9 @@
     "duration": 2.56,
     "target_count": 2,
     "status": "passed",
-    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_08\\026_ko_context.webm"
+    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_08\\026_ko_context.webm",
+    "adjusted_status": "passed",
+    "adjusted_reason": "target text matched in ASR"
   },
   {
     "lesson": 8,
@@ -3549,7 +4139,9 @@
     "duration": 3.84,
     "target_count": 2,
     "status": "passed",
-    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_08\\027_ko_context.webm"
+    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_08\\027_ko_context.webm",
+    "adjusted_status": "passed",
+    "adjusted_reason": "target text matched in ASR"
   },
   {
     "lesson": 8,
@@ -3561,7 +4153,9 @@
     "duration": 3.2,
     "target_count": 1,
     "status": "passed",
-    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_08\\028_ko_context.webm"
+    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_08\\028_ko_context.webm",
+    "adjusted_status": "passed",
+    "adjusted_reason": "target text matched in ASR"
   },
   {
     "lesson": 8,
@@ -3573,7 +4167,9 @@
     "duration": 3.04,
     "target_count": 2,
     "status": "passed",
-    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_08\\029_ko_context.webm"
+    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_08\\029_ko_context.webm",
+    "adjusted_status": "passed",
+    "adjusted_reason": "target text matched in ASR"
   },
   {
     "lesson": 9,
@@ -3585,7 +4181,9 @@
     "duration": 7.68,
     "target_count": 3,
     "status": "passed",
-    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_09\\001_ko_context.webm"
+    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_09\\001_ko_context.webm",
+    "adjusted_status": "passed",
+    "adjusted_reason": "target text matched in ASR"
   },
   {
     "lesson": 9,
@@ -3597,7 +4195,9 @@
     "duration": 3.84,
     "target_count": 2,
     "status": "passed",
-    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_09\\002_ko_context.webm"
+    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_09\\002_ko_context.webm",
+    "adjusted_status": "passed",
+    "adjusted_reason": "target text matched in ASR"
   },
   {
     "lesson": 9,
@@ -3609,7 +4209,9 @@
     "duration": 3.84,
     "target_count": 2,
     "status": "passed",
-    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_09\\003_ko_context.webm"
+    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_09\\003_ko_context.webm",
+    "adjusted_status": "passed",
+    "adjusted_reason": "target text matched in ASR"
   },
   {
     "lesson": 9,
@@ -3621,7 +4223,9 @@
     "duration": 3.68,
     "target_count": 2,
     "status": "passed",
-    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_09\\004_ko_context.webm"
+    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_09\\004_ko_context.webm",
+    "adjusted_status": "passed",
+    "adjusted_reason": "target text matched in ASR"
   },
   {
     "lesson": 9,
@@ -3633,7 +4237,9 @@
     "duration": 3.2,
     "target_count": 2,
     "status": "passed",
-    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_09\\005_ko_context.webm"
+    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_09\\005_ko_context.webm",
+    "adjusted_status": "passed",
+    "adjusted_reason": "target text matched in ASR"
   },
   {
     "lesson": 9,
@@ -3645,7 +4251,9 @@
     "duration": 5.6,
     "target_count": 2,
     "status": "passed",
-    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_09\\006_ko_context.webm"
+    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_09\\006_ko_context.webm",
+    "adjusted_status": "passed",
+    "adjusted_reason": "target text matched in ASR"
   },
   {
     "lesson": 9,
@@ -3657,7 +4265,9 @@
     "duration": 6.24,
     "target_count": 2,
     "status": "passed",
-    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_09\\007_ko_context.webm"
+    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_09\\007_ko_context.webm",
+    "adjusted_status": "passed",
+    "adjusted_reason": "target text matched in ASR"
   },
   {
     "lesson": 9,
@@ -3669,7 +4279,9 @@
     "duration": 3.84,
     "target_count": 2,
     "status": "passed",
-    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_09\\008_ko_context.webm"
+    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_09\\008_ko_context.webm",
+    "adjusted_status": "passed",
+    "adjusted_reason": "target text matched in ASR"
   },
   {
     "lesson": 9,
@@ -3681,7 +4293,9 @@
     "duration": 5.92,
     "target_count": 2,
     "status": "passed",
-    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_09\\009_ko_context.webm"
+    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_09\\009_ko_context.webm",
+    "adjusted_status": "passed",
+    "adjusted_reason": "target text matched in ASR"
   },
   {
     "lesson": 9,
@@ -3693,7 +4307,9 @@
     "duration": 3.84,
     "target_count": 2,
     "status": "passed",
-    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_09\\010_ko_context.webm"
+    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_09\\010_ko_context.webm",
+    "adjusted_status": "passed",
+    "adjusted_reason": "target text matched in ASR"
   },
   {
     "lesson": 9,
@@ -3705,7 +4321,9 @@
     "duration": 3.04,
     "target_count": 2,
     "status": "passed",
-    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_09\\011_ko_context.webm"
+    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_09\\011_ko_context.webm",
+    "adjusted_status": "passed",
+    "adjusted_reason": "target text matched in ASR"
   },
   {
     "lesson": 9,
@@ -3717,7 +4335,9 @@
     "duration": 2.4,
     "target_count": 2,
     "status": "passed",
-    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_09\\012_ko_context.webm"
+    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_09\\012_ko_context.webm",
+    "adjusted_status": "passed",
+    "adjusted_reason": "target text matched in ASR"
   },
   {
     "lesson": 9,
@@ -3729,7 +4349,9 @@
     "duration": 5.28,
     "target_count": 2,
     "status": "passed",
-    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_09\\013_ko_context.webm"
+    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_09\\013_ko_context.webm",
+    "adjusted_status": "passed",
+    "adjusted_reason": "target text matched in ASR"
   },
   {
     "lesson": 9,
@@ -3741,7 +4363,9 @@
     "duration": 3.52,
     "target_count": 1,
     "status": "passed",
-    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_09\\014_ko_context.webm"
+    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_09\\014_ko_context.webm",
+    "adjusted_status": "passed",
+    "adjusted_reason": "target text matched in ASR"
   },
   {
     "lesson": 9,
@@ -3753,7 +4377,9 @@
     "duration": 3.84,
     "target_count": 2,
     "status": "passed",
-    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_09\\015_ko_context.webm"
+    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_09\\015_ko_context.webm",
+    "adjusted_status": "passed",
+    "adjusted_reason": "target text matched in ASR"
   },
   {
     "lesson": 9,
@@ -3765,6 +4391,1732 @@
     "duration": 4.16,
     "target_count": 3,
     "status": "passed",
-    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_09\\016_ko_context.webm"
+    "file": "voices_ko_lessons_01_09_gentle_slow\\lesson_09\\016_ko_context.webm",
+    "adjusted_status": "passed",
+    "adjusted_reason": "target text matched in ASR"
+  },
+  {
+    "lesson": 10,
+    "id": "001",
+    "word": "약속",
+    "target": "약속",
+    "expected": "이 표현을 천천히 말합니다. 약속.",
+    "asr": "이 표현을 천천히 말합니다. 약속.",
+    "duration": 2.56,
+    "target_count": 1,
+    "status": "passed",
+    "file": "voices_ko_lessons_10_14_gentle_slow\\lesson_10\\001_ko_context.webm",
+    "adjusted_status": "passed",
+    "adjusted_reasons": []
+  },
+  {
+    "lesson": 10,
+    "id": "002",
+    "word": "시간",
+    "target": "시간",
+    "expected": "이 표현을 천천히 말합니다. 시간.",
+    "asr": "이 표현을 천천히 말합니다. 시간.",
+    "duration": 2.72,
+    "target_count": 1,
+    "status": "passed",
+    "file": "voices_ko_lessons_10_14_gentle_slow\\lesson_10\\002_ko_context.webm",
+    "adjusted_status": "passed",
+    "adjusted_reasons": []
+  },
+  {
+    "lesson": 10,
+    "id": "003",
+    "word": "특별하다 (특별해요)",
+    "target": "특별해요",
+    "expected": "이 표현은 특별하다, 특별해요입니다. 특별하다, 특별해요.",
+    "asr": "이 표현은 특별하다, 특별해요입니다. 특별하다, 특별해요.",
+    "duration": 6.08,
+    "target_count": 2,
+    "status": "passed",
+    "file": "voices_ko_lessons_10_14_gentle_slow\\lesson_10\\003_ko_context.webm",
+    "adjusted_status": "passed",
+    "adjusted_reasons": []
+  },
+  {
+    "lesson": 10,
+    "id": "004",
+    "word": "일",
+    "target": "일",
+    "expected": "오늘 할 일입니다. 일. 일.",
+    "asr": "오늘 할 일입니다. 1 1",
+    "duration": 3.04,
+    "target_count": 1,
+    "status": "passed",
+    "file": "voices_ko_lessons_10_14_gentle_slow\\lesson_10\\004_ko_context.webm",
+    "adjusted_status": "passed",
+    "adjusted_reasons": []
+  },
+  {
+    "lesson": 10,
+    "id": "005",
+    "word": "다르다 (달라요)",
+    "target": "달라요",
+    "expected": "이 표현은 다르다, 달라요입니다. 다르다, 달라요.",
+    "asr": "이 표현은 다르다, 달라요입니다. 다르다, 달라요.",
+    "duration": 5.92,
+    "target_count": 2,
+    "status": "passed",
+    "file": "voices_ko_lessons_10_14_gentle_slow\\lesson_10\\005_ko_context.webm",
+    "adjusted_status": "passed",
+    "adjusted_reasons": []
+  },
+  {
+    "lesson": 10,
+    "id": "006",
+    "word": "콘서트",
+    "target": "콘서트",
+    "expected": "이 표현을 천천히 말합니다. 콘서트.",
+    "asr": "이 표현을 천천히 말합니다. 콘서트.",
+    "duration": 3.36,
+    "target_count": 1,
+    "status": "passed",
+    "file": "voices_ko_lessons_10_14_gentle_slow\\lesson_10\\006_ko_context.webm",
+    "adjusted_status": "passed",
+    "adjusted_reasons": []
+  },
+  {
+    "lesson": 10,
+    "id": "007",
+    "word": "축구",
+    "target": "축구",
+    "expected": "이 표현을 천천히 말합니다. 축구.",
+    "asr": "이 표현을 천천히 말합니다. 축구.",
+    "duration": 3.04,
+    "target_count": 1,
+    "status": "passed",
+    "file": "voices_ko_lessons_10_14_gentle_slow\\lesson_10\\007_ko_context.webm",
+    "adjusted_status": "passed",
+    "adjusted_reasons": []
+  },
+  {
+    "lesson": 10,
+    "id": "008",
+    "word": "경기",
+    "target": "경기",
+    "expected": "이 표현을 천천히 말합니다. 경기.",
+    "asr": "이 표현을 천천히 말합니다. 경기",
+    "duration": 4.0,
+    "target_count": 1,
+    "status": "passed",
+    "file": "voices_ko_lessons_10_14_gentle_slow\\lesson_10\\008_ko_context.webm",
+    "adjusted_status": "passed",
+    "adjusted_reasons": []
+  },
+  {
+    "lesson": 10,
+    "id": "009",
+    "word": "농구",
+    "target": "농구",
+    "expected": "이 표현을 천천히 말합니다. 농구.",
+    "asr": "이 표현을 천천히 말합니다. 농구.",
+    "duration": 3.52,
+    "target_count": 1,
+    "status": "passed",
+    "file": "voices_ko_lessons_10_14_gentle_slow\\lesson_10\\009_ko_context.webm",
+    "adjusted_status": "passed",
+    "adjusted_reasons": []
+  },
+  {
+    "lesson": 10,
+    "id": "010",
+    "word": "음료수",
+    "target": "음료수",
+    "expected": "이 표현을 천천히 말합니다. 음료수.",
+    "asr": "이 표현을 천천히 말합니다. 음료수",
+    "duration": 4.16,
+    "target_count": 1,
+    "status": "passed",
+    "file": "voices_ko_lessons_10_14_gentle_slow\\lesson_10\\010_ko_context.webm",
+    "adjusted_status": "passed",
+    "adjusted_reasons": []
+  },
+  {
+    "lesson": 10,
+    "id": "011",
+    "word": "등산",
+    "target": "등산",
+    "expected": "이 표현을 천천히 말합니다. 등산.",
+    "asr": "이 표현을 천천히 말합니다. 등산.",
+    "duration": 3.2,
+    "target_count": 1,
+    "status": "passed",
+    "file": "voices_ko_lessons_10_14_gentle_slow\\lesson_10\\011_ko_context.webm",
+    "adjusted_status": "passed",
+    "adjusted_reasons": []
+  },
+  {
+    "lesson": 10,
+    "id": "012",
+    "word": "하다",
+    "target": "하다",
+    "expected": "한국어 동사 하다입니다. 하다. 하다.",
+    "asr": "한국어 동사 하다입니다.",
+    "duration": 3.52,
+    "target_count": 1,
+    "status": "passed",
+    "file": "voices_ko_lessons_10_14_gentle_slow\\lesson_10\\012_ko_context.webm",
+    "adjusted_status": "passed",
+    "adjusted_reasons": []
+  },
+  {
+    "lesson": 10,
+    "id": "013",
+    "word": "말",
+    "target": "말",
+    "expected": "이 표현을 천천히 말합니다. 말.",
+    "asr": "이 표현을 천천히 말합니다. 말",
+    "duration": 3.68,
+    "target_count": 2,
+    "status": "passed",
+    "file": "voices_ko_lessons_10_14_gentle_slow\\lesson_10\\013_ko_context.webm",
+    "adjusted_status": "passed",
+    "adjusted_reasons": []
+  },
+  {
+    "lesson": 10,
+    "id": "014",
+    "word": "한강",
+    "target": "한강",
+    "expected": "이 표현을 천천히 말합니다. 한강.",
+    "asr": "이 표현을 천천히 말합니다. 한강",
+    "duration": 3.52,
+    "target_count": 1,
+    "status": "passed",
+    "file": "voices_ko_lessons_10_14_gentle_slow\\lesson_10\\014_ko_context.webm",
+    "adjusted_status": "passed",
+    "adjusted_reasons": []
+  },
+  {
+    "lesson": 10,
+    "id": "015",
+    "word": "음식",
+    "target": "음식",
+    "expected": "이 표현을 천천히 말합니다. 음식.",
+    "asr": "이 표현을 천천히 말합니다. 음식.",
+    "duration": 2.72,
+    "target_count": 1,
+    "status": "passed",
+    "file": "voices_ko_lessons_10_14_gentle_slow\\lesson_10\\015_ko_context.webm",
+    "adjusted_status": "passed",
+    "adjusted_reasons": []
+  },
+  {
+    "lesson": 10,
+    "id": "016",
+    "word": "운동화",
+    "target": "운동화",
+    "expected": "이 표현을 천천히 말합니다. 운동화.",
+    "asr": "이 표현을 천천히 말합니다. 운동화.",
+    "duration": 2.24,
+    "target_count": 1,
+    "status": "passed",
+    "file": "voices_ko_lessons_10_14_gentle_slow\\lesson_10\\016_ko_context.webm",
+    "adjusted_status": "passed",
+    "adjusted_reasons": []
+  },
+  {
+    "lesson": 10,
+    "id": "017",
+    "word": "방학",
+    "target": "방학",
+    "expected": "학교 방학입니다. 방학. 방학.",
+    "asr": "학교 방학입니다. 방학, 방학.",
+    "duration": 2.4,
+    "target_count": 3,
+    "status": "passed",
+    "file": "voices_ko_lessons_10_14_gentle_slow\\lesson_10\\017_ko_context.webm",
+    "adjusted_status": "passed",
+    "adjusted_reasons": []
+  },
+  {
+    "lesson": 10,
+    "id": "018",
+    "word": "비빔밥",
+    "target": "비빔밥",
+    "expected": "이 표현을 천천히 말합니다. 비빔밥.",
+    "asr": "이 표현을 천천히 말합니다. 비빔밥,",
+    "duration": 3.52,
+    "target_count": 1,
+    "status": "passed",
+    "file": "voices_ko_lessons_10_14_gentle_slow\\lesson_10\\018_ko_context.webm",
+    "adjusted_status": "passed",
+    "adjusted_reasons": []
+  },
+  {
+    "lesson": 10,
+    "id": "019",
+    "word": "낚시",
+    "target": "낚시",
+    "expected": "이 표현을 천천히 말합니다. 낚시.",
+    "asr": "이 표현을 천천히 말합니다. 낚시,",
+    "duration": 3.68,
+    "target_count": 1,
+    "status": "passed",
+    "file": "voices_ko_lessons_10_14_gentle_slow\\lesson_10\\019_ko_context.webm",
+    "adjusted_status": "passed",
+    "adjusted_reasons": []
+  },
+  {
+    "lesson": 10,
+    "id": "020",
+    "word": "태권도",
+    "target": "태권도",
+    "expected": "이 표현을 천천히 말합니다. 태권도.",
+    "asr": "이 표현을 천천히 말합니다. 태권도.",
+    "duration": 3.84,
+    "target_count": 1,
+    "status": "passed",
+    "file": "voices_ko_lessons_10_14_gentle_slow\\lesson_10\\020_ko_context.webm",
+    "adjusted_status": "passed",
+    "adjusted_reasons": []
+  },
+  {
+    "lesson": 10,
+    "id": "021",
+    "word": "다 (모두)",
+    "target": "다",
+    "expected": "이 표현을 천천히 말합니다. 다, 모두.",
+    "asr": "이 표현을 천천히 말합니다. 다, 모두.",
+    "duration": 2.72,
+    "target_count": 2,
+    "status": "passed",
+    "file": "voices_ko_lessons_10_14_gentle_slow\\lesson_10\\021_ko_context.webm",
+    "adjusted_status": "passed",
+    "adjusted_reasons": []
+  },
+  {
+    "lesson": 10,
+    "id": "022",
+    "word": "걷다 (걸어요)",
+    "target": "걸어요",
+    "expected": "이 표현은 걷다, 걸어요입니다. 걷다, 걸어요.",
+    "asr": "이 표현은 걷다 걸어요 입니다 걷다 걸어요",
+    "duration": 6.56,
+    "target_count": 2,
+    "status": "passed",
+    "file": "voices_ko_lessons_10_14_gentle_slow\\lesson_10\\022_ko_context.webm",
+    "adjusted_status": "passed",
+    "adjusted_reasons": []
+  },
+  {
+    "lesson": 10,
+    "id": "023",
+    "word": "쇼핑몰",
+    "target": "쇼핑몰",
+    "expected": "이 표현을 천천히 말합니다. 쇼핑몰.",
+    "asr": "이 표현을 천천히 말합니다 쇼핑몰",
+    "duration": 3.04,
+    "target_count": 1,
+    "status": "passed",
+    "file": "voices_ko_lessons_10_14_gentle_slow\\lesson_10\\023_ko_context.webm",
+    "adjusted_status": "passed",
+    "adjusted_reasons": []
+  },
+  {
+    "lesson": 10,
+    "id": "024",
+    "word": "내용",
+    "target": "내용",
+    "expected": "책의 내용입니다. 내용. 내용.",
+    "asr": "책의 내용입니다. 내용, 내용.",
+    "duration": 3.2,
+    "target_count": 3,
+    "status": "passed",
+    "file": "voices_ko_lessons_10_14_gentle_slow\\lesson_10\\024_ko_context.webm",
+    "adjusted_status": "passed",
+    "adjusted_reasons": []
+  },
+  {
+    "lesson": 10,
+    "id": "025",
+    "word": "메모 (메모해요)",
+    "target": "메모해요",
+    "expected": "이 표현은 메모, 메모해요입니다. 메모, 메모해요.",
+    "asr": "이 표현은 메모, 메모해요입니다. 메모, 메모해요.",
+    "duration": 5.28,
+    "target_count": 2,
+    "status": "passed",
+    "file": "voices_ko_lessons_10_14_gentle_slow\\lesson_10\\025_ko_context.webm",
+    "adjusted_status": "passed",
+    "adjusted_reasons": []
+  },
+  {
+    "lesson": 10,
+    "id": "026",
+    "word": "주 (다음 주)",
+    "target": "주",
+    "expected": "이 표현을 천천히 말합니다. 주, 다음 주.",
+    "asr": "표현을 천천히 말합니다. 주 다음 주",
+    "duration": 4.16,
+    "target_count": 2,
+    "status": "passed",
+    "file": "voices_ko_lessons_10_14_gentle_slow\\lesson_10\\026_ko_context.webm",
+    "adjusted_status": "passed",
+    "adjusted_reasons": []
+  },
+  {
+    "lesson": 10,
+    "id": "027",
+    "word": "다음",
+    "target": "다음",
+    "expected": "이 표현을 천천히 말합니다. 다음.",
+    "asr": "이 표현을 천천히 말합니다. 다음 옷",
+    "duration": 4.48,
+    "target_count": 1,
+    "status": "passed",
+    "file": "voices_ko_lessons_10_14_gentle_slow\\lesson_10\\027_ko_context.webm",
+    "adjusted_status": "passed",
+    "adjusted_reasons": []
+  },
+  {
+    "lesson": 10,
+    "id": "028",
+    "word": "케이팝 (K-POP)",
+    "target": "케이팝",
+    "expected": "한국 음악 케이팝입니다. 케이팝. 케이팝.",
+    "asr": "한국음악 K-POP입니다. K-POP, K-POP.",
+    "duration": 3.36,
+    "target_count": 0,
+    "status": "needs_review",
+    "file": "voices_ko_lessons_10_14_gentle_slow\\lesson_10\\028_ko_context.webm",
+    "adjusted_status": "passed_as_alias",
+    "adjusted_reasons": [
+      "ASR renders ??? as K-POP, which is the same loanword pronunciation."
+    ]
+  },
+  {
+    "lesson": 10,
+    "id": "029",
+    "word": "주 (다음 주)",
+    "target": "주",
+    "expected": "이 표현을 천천히 말합니다. 주, 다음 주.",
+    "asr": "이 표현을 천천히 말합니다. 주, 다음 주.",
+    "duration": 3.84,
+    "target_count": 2,
+    "status": "passed",
+    "file": "voices_ko_lessons_10_14_gentle_slow\\lesson_10\\029_ko_context.webm",
+    "adjusted_status": "passed",
+    "adjusted_reasons": []
+  },
+  {
+    "lesson": 11,
+    "id": "001",
+    "word": "음식, 맛",
+    "target": "음식",
+    "expected": "이 표현을 천천히 말합니다. 음식, 맛.",
+    "asr": "이 표현을 천천히 말합니다. 음식, 맛.",
+    "duration": 3.84,
+    "target_count": 1,
+    "status": "passed",
+    "file": "voices_ko_lessons_10_14_gentle_slow\\lesson_11\\001_ko_context.webm",
+    "adjusted_status": "passed",
+    "adjusted_reasons": []
+  },
+  {
+    "lesson": 11,
+    "id": "002",
+    "word": "얼마나",
+    "target": "얼마나",
+    "expected": "이 표현을 천천히 말합니다. 얼마나.",
+    "asr": "이 표현을 천천히 말합니다. 얼마나",
+    "duration": 3.36,
+    "target_count": 1,
+    "status": "passed",
+    "file": "voices_ko_lessons_10_14_gentle_slow\\lesson_11\\002_ko_context.webm",
+    "adjusted_status": "passed",
+    "adjusted_reasons": []
+  },
+  {
+    "lesson": 11,
+    "id": "003",
+    "word": "김치찌개, 된장찌개",
+    "target": "김치찌개",
+    "expected": "이 표현을 천천히 말합니다. 김치찌개, 된장찌개.",
+    "asr": "이 표현을 천천히 말합니다. 김치찌개, 된장찌개, 김치찌개, 김치찌개, 김치찌개.",
+    "duration": 5.76,
+    "target_count": 4,
+    "status": "passed",
+    "file": "voices_ko_lessons_10_14_gentle_slow\\lesson_11\\003_ko_context.webm",
+    "adjusted_status": "passed",
+    "adjusted_reasons": []
+  },
+  {
+    "lesson": 11,
+    "id": "004",
+    "word": "냉면",
+    "target": "냉면",
+    "expected": "이 표현을 천천히 말합니다. 냉면.",
+    "asr": "이 표현을 천천히 말합니다. 냉면",
+    "duration": 5.6,
+    "target_count": 1,
+    "status": "passed",
+    "file": "voices_ko_lessons_10_14_gentle_slow\\lesson_11\\004_ko_context.webm",
+    "adjusted_status": "passed",
+    "adjusted_reasons": []
+  },
+  {
+    "lesson": 11,
+    "id": "005",
+    "word": "볶음밥",
+    "target": "볶음밥",
+    "expected": "이 표현을 천천히 말합니다. 볶음밥.",
+    "asr": "이 표현을 천천히 말합니다. 볶음밥.",
+    "duration": 3.84,
+    "target_count": 1,
+    "status": "passed",
+    "file": "voices_ko_lessons_10_14_gentle_slow\\lesson_11\\005_ko_context.webm",
+    "adjusted_status": "passed",
+    "adjusted_reasons": []
+  },
+  {
+    "lesson": 11,
+    "id": "006",
+    "word": "잡채",
+    "target": "잡채",
+    "expected": "이 표현을 천천히 말합니다. 잡채.",
+    "asr": "이 표현을 천천히 말합니다. 잡채의",
+    "duration": 3.68,
+    "target_count": 1,
+    "status": "passed",
+    "file": "voices_ko_lessons_10_14_gentle_slow\\lesson_11\\006_ko_context.webm",
+    "adjusted_status": "passed",
+    "adjusted_reasons": []
+  },
+  {
+    "lesson": 11,
+    "id": "007",
+    "word": "떡볶이",
+    "target": "떡볶이",
+    "expected": "이 표현을 천천히 말합니다. 떡볶이.",
+    "asr": "이 표현을 천천히 말합니다. 떡볶이.",
+    "duration": 3.2,
+    "target_count": 1,
+    "status": "passed",
+    "file": "voices_ko_lessons_10_14_gentle_slow\\lesson_11\\007_ko_context.webm",
+    "adjusted_status": "passed",
+    "adjusted_reasons": []
+  },
+  {
+    "lesson": 11,
+    "id": "008",
+    "word": "주문하다",
+    "target": "주문하다",
+    "expected": "이 표현을 천천히 말합니다. 주문하다.",
+    "asr": "이 표현을 천천히 말합니다. 주문하다.",
+    "duration": 3.84,
+    "target_count": 1,
+    "status": "passed",
+    "file": "voices_ko_lessons_10_14_gentle_slow\\lesson_11\\008_ko_context.webm",
+    "adjusted_status": "passed",
+    "adjusted_reasons": []
+  },
+  {
+    "lesson": 11,
+    "id": "009",
+    "word": "선물",
+    "target": "선물",
+    "expected": "이 표현을 천천히 말합니다. 선물.",
+    "asr": "이 표현을 천천히 말합니다. 선물.",
+    "duration": 3.04,
+    "target_count": 1,
+    "status": "passed",
+    "file": "voices_ko_lessons_10_14_gentle_slow\\lesson_11\\009_ko_context.webm",
+    "adjusted_status": "passed",
+    "adjusted_reasons": []
+  },
+  {
+    "lesson": 11,
+    "id": "010",
+    "word": "받다",
+    "target": "받다",
+    "expected": "선물을 받다입니다. 받다. 받다.",
+    "asr": "선물을 받다입니다. 받다. 받다.",
+    "duration": 2.88,
+    "target_count": 3,
+    "status": "passed",
+    "file": "voices_ko_lessons_10_14_gentle_slow\\lesson_11\\010_ko_context.webm",
+    "adjusted_status": "passed",
+    "adjusted_reasons": []
+  },
+  {
+    "lesson": 11,
+    "id": "011",
+    "word": "가장",
+    "target": "가장",
+    "expected": "가장 맛있어요. 가장. 가장.",
+    "asr": "가장 맛있어요. 가장! 가장!",
+    "duration": 1.92,
+    "target_count": 3,
+    "status": "passed",
+    "file": "voices_ko_lessons_10_14_gentle_slow\\lesson_11\\011_ko_context.webm",
+    "adjusted_status": "passed",
+    "adjusted_reasons": []
+  },
+  {
+    "lesson": 11,
+    "id": "012",
+    "word": "동물",
+    "target": "동물",
+    "expected": "이 표현을 천천히 말합니다. 동물.",
+    "asr": "이 표현을 천천히 말합니다. 동물",
+    "duration": 3.36,
+    "target_count": 1,
+    "status": "passed",
+    "file": "voices_ko_lessons_10_14_gentle_slow\\lesson_11\\012_ko_context.webm",
+    "adjusted_status": "passed",
+    "adjusted_reasons": []
+  },
+  {
+    "lesson": 11,
+    "id": "013",
+    "word": "테니스",
+    "target": "테니스",
+    "expected": "이 표현을 천천히 말합니다. 테니스.",
+    "asr": "이 표현을 천천히 말합니다. 테니스",
+    "duration": 4.32,
+    "target_count": 1,
+    "status": "passed",
+    "file": "voices_ko_lessons_10_14_gentle_slow\\lesson_11\\013_ko_context.webm",
+    "adjusted_status": "passed",
+    "adjusted_reasons": []
+  },
+  {
+    "lesson": 11,
+    "id": "014",
+    "word": "미안하다",
+    "target": "미안하다",
+    "expected": "이 표현을 천천히 말합니다. 미안하다.",
+    "asr": "2. 표현을 천천히 말합니다. 미안하다.",
+    "duration": 4.16,
+    "target_count": 1,
+    "status": "passed",
+    "file": "voices_ko_lessons_10_14_gentle_slow\\lesson_11\\014_ko_context.webm",
+    "adjusted_status": "passed",
+    "adjusted_reasons": []
+  },
+  {
+    "lesson": 11,
+    "id": "015",
+    "word": "혼자",
+    "target": "혼자",
+    "expected": "이 표현을 천천히 말합니다. 혼자.",
+    "asr": "이 표현을 천천히 말합니다. 혼자",
+    "duration": 3.04,
+    "target_count": 1,
+    "status": "passed",
+    "file": "voices_ko_lessons_10_14_gentle_slow\\lesson_11\\015_ko_context.webm",
+    "adjusted_status": "passed",
+    "adjusted_reasons": []
+  },
+  {
+    "lesson": 11,
+    "id": "016",
+    "word": "치다",
+    "target": "치다",
+    "expected": "이 표현을 천천히 말합니다. 치다.",
+    "asr": "이 표현을 천천히 말합니다. 치다.",
+    "duration": 2.4,
+    "target_count": 1,
+    "status": "passed",
+    "file": "voices_ko_lessons_10_14_gentle_slow\\lesson_11\\016_ko_context.webm",
+    "adjusted_status": "passed",
+    "adjusted_reasons": []
+  },
+  {
+    "lesson": 11,
+    "id": "017",
+    "word": "운전",
+    "target": "운전",
+    "expected": "이 표현을 천천히 말합니다. 운전.",
+    "asr": "이 표현을 천천히 말합니다. 운전.",
+    "duration": 3.2,
+    "target_count": 1,
+    "status": "passed",
+    "file": "voices_ko_lessons_10_14_gentle_slow\\lesson_11\\017_ko_context.webm",
+    "adjusted_status": "passed",
+    "adjusted_reasons": []
+  },
+  {
+    "lesson": 11,
+    "id": "018",
+    "word": "고기",
+    "target": "고기",
+    "expected": "이 표현을 천천히 말합니다. 고기.",
+    "asr": "이 표현을 천천히 말합니다. 고기.",
+    "duration": 2.88,
+    "target_count": 1,
+    "status": "passed",
+    "file": "voices_ko_lessons_10_14_gentle_slow\\lesson_11\\018_ko_context.webm",
+    "adjusted_status": "passed",
+    "adjusted_reasons": []
+  },
+  {
+    "lesson": 11,
+    "id": "019",
+    "word": "햄버거",
+    "target": "햄버거",
+    "expected": "이 표현을 천천히 말합니다. 햄버거.",
+    "asr": "이 표현을 천천히 말합니다. 햄버거.",
+    "duration": 2.56,
+    "target_count": 1,
+    "status": "passed",
+    "file": "voices_ko_lessons_10_14_gentle_slow\\lesson_11\\019_ko_context.webm",
+    "adjusted_status": "passed",
+    "adjusted_reasons": []
+  },
+  {
+    "lesson": 11,
+    "id": "020",
+    "word": "생선",
+    "target": "생선",
+    "expected": "이 표현을 천천히 말합니다. 생선.",
+    "asr": "이 표현을 천천히 말합니다. 생선.",
+    "duration": 2.72,
+    "target_count": 1,
+    "status": "passed",
+    "file": "voices_ko_lessons_10_14_gentle_slow\\lesson_11\\020_ko_context.webm",
+    "adjusted_status": "passed",
+    "adjusted_reasons": []
+  },
+  {
+    "lesson": 11,
+    "id": "021",
+    "word": "초밥",
+    "target": "초밥",
+    "expected": "이 표현을 천천히 말합니다. 초밥.",
+    "asr": "이 표현을 천천히 말합니다. 초밥",
+    "duration": 3.04,
+    "target_count": 1,
+    "status": "passed",
+    "file": "voices_ko_lessons_10_14_gentle_slow\\lesson_11\\021_ko_context.webm",
+    "adjusted_status": "passed",
+    "adjusted_reasons": []
+  },
+  {
+    "lesson": 11,
+    "id": "022",
+    "word": "내",
+    "target": "내",
+    "expected": "이것은 내 책이에요. 내 책. 내.",
+    "asr": "이것은 내 책이에요. 내 책. 내.",
+    "duration": 3.36,
+    "target_count": 3,
+    "status": "passed",
+    "file": "voices_ko_lessons_10_14_gentle_slow\\lesson_11\\022_ko_context.webm",
+    "adjusted_status": "passed",
+    "adjusted_reasons": []
+  },
+  {
+    "lesson": 11,
+    "id": "023",
+    "word": "것",
+    "target": "것",
+    "expected": "먹을 것입니다. 것. 것.",
+    "asr": "먹을 것입니다. 곧. 고코넛.",
+    "duration": 2.4,
+    "target_count": 1,
+    "status": "passed",
+    "file": "voices_ko_lessons_10_14_gentle_slow\\lesson_11\\023_ko_context.webm",
+    "adjusted_status": "passed",
+    "adjusted_reasons": []
+  },
+  {
+    "lesson": 11,
+    "id": "024",
+    "word": "일주일",
+    "target": "일주일",
+    "expected": "이 표현을 천천히 말합니다. 일주일.",
+    "asr": "이 표현을 천천히 말합니다. 일주일.",
+    "duration": 3.52,
+    "target_count": 1,
+    "status": "passed",
+    "file": "voices_ko_lessons_10_14_gentle_slow\\lesson_11\\024_ko_context.webm",
+    "adjusted_status": "passed",
+    "adjusted_reasons": []
+  },
+  {
+    "lesson": 11,
+    "id": "025",
+    "word": "조금",
+    "target": "조금",
+    "expected": "이 표현을 천천히 말합니다. 조금.",
+    "asr": "이 표현을 천천히 말합니다. 조금",
+    "duration": 2.4,
+    "target_count": 1,
+    "status": "passed",
+    "file": "voices_ko_lessons_10_14_gentle_slow\\lesson_11\\025_ko_context.webm",
+    "adjusted_status": "passed",
+    "adjusted_reasons": []
+  },
+  {
+    "lesson": 11,
+    "id": "026",
+    "word": "하지만",
+    "target": "하지만",
+    "expected": "이 표현을 천천히 말합니다. 하지만.",
+    "asr": "이 표현을 천천히 말합니다. 하지만",
+    "duration": 3.2,
+    "target_count": 1,
+    "status": "passed",
+    "file": "voices_ko_lessons_10_14_gentle_slow\\lesson_11\\026_ko_context.webm",
+    "adjusted_status": "passed",
+    "adjusted_reasons": []
+  },
+  {
+    "lesson": 11,
+    "id": "027",
+    "word": "왜",
+    "target": "왜",
+    "expected": "이 표현을 천천히 말합니다. 왜.",
+    "asr": "이 표현을 천천히 말합니다. 왜?",
+    "duration": 2.56,
+    "target_count": 1,
+    "status": "passed",
+    "file": "voices_ko_lessons_10_14_gentle_slow\\lesson_11\\027_ko_context.webm",
+    "adjusted_status": "passed",
+    "adjusted_reasons": []
+  },
+  {
+    "lesson": 12,
+    "id": "001",
+    "word": "취미",
+    "target": "취미",
+    "expected": "제 취미입니다. 취미. 취미.",
+    "asr": "제 취미입니다. 취미. 취미.",
+    "duration": 3.2,
+    "target_count": 3,
+    "status": "passed",
+    "file": "voices_ko_lessons_10_14_gentle_slow\\lesson_12\\001_ko_context.webm",
+    "adjusted_status": "passed",
+    "adjusted_reasons": []
+  },
+  {
+    "lesson": 12,
+    "id": "002",
+    "word": "그림",
+    "target": "그림",
+    "expected": "이 표현을 천천히 말합니다. 그림.",
+    "asr": "이 표현을 천천히 말합니다. 그림.",
+    "duration": 3.36,
+    "target_count": 1,
+    "status": "passed",
+    "file": "voices_ko_lessons_10_14_gentle_slow\\lesson_12\\002_ko_context.webm",
+    "adjusted_status": "passed",
+    "adjusted_reasons": []
+  },
+  {
+    "lesson": 12,
+    "id": "003",
+    "word": "그리다",
+    "target": "그리다",
+    "expected": "그림을 그리다입니다. 그리다. 그리다.",
+    "asr": "그림을 그리다입니다. 그리다. 그리다.",
+    "duration": 4.8,
+    "target_count": 3,
+    "status": "passed",
+    "file": "voices_ko_lessons_10_14_gentle_slow\\lesson_12\\003_ko_context.webm",
+    "adjusted_status": "passed",
+    "adjusted_reasons": []
+  },
+  {
+    "lesson": 12,
+    "id": "004",
+    "word": "노래",
+    "target": "노래",
+    "expected": "이 표현을 천천히 말합니다. 노래.",
+    "asr": "이 표현을 천천히 말합니다. 노래",
+    "duration": 2.72,
+    "target_count": 1,
+    "status": "passed",
+    "file": "voices_ko_lessons_10_14_gentle_slow\\lesson_12\\004_ko_context.webm",
+    "adjusted_status": "passed",
+    "adjusted_reasons": []
+  },
+  {
+    "lesson": 12,
+    "id": "005",
+    "word": "기타",
+    "target": "기타",
+    "expected": "이 표현을 천천히 말합니다. 기타.",
+    "asr": "이 표현을 천천히 말합니다. 기타",
+    "duration": 4.0,
+    "target_count": 1,
+    "status": "passed",
+    "file": "voices_ko_lessons_10_14_gentle_slow\\lesson_12\\005_ko_context.webm",
+    "adjusted_status": "passed",
+    "adjusted_reasons": []
+  },
+  {
+    "lesson": 12,
+    "id": "006",
+    "word": "신문",
+    "target": "신문",
+    "expected": "이 표현을 천천히 말합니다. 신문.",
+    "asr": "이 표현을 천천히 말합니다. 신문.",
+    "duration": 2.56,
+    "target_count": 1,
+    "status": "passed",
+    "file": "voices_ko_lessons_10_14_gentle_slow\\lesson_12\\006_ko_context.webm",
+    "adjusted_status": "passed",
+    "adjusted_reasons": []
+  },
+  {
+    "lesson": 12,
+    "id": "007",
+    "word": "빌리다",
+    "target": "빌리다",
+    "expected": "이 표현을 천천히 말합니다. 빌리다.",
+    "asr": "이 표현을 천천히 말합니다. 빌리다.",
+    "duration": 4.0,
+    "target_count": 1,
+    "status": "passed",
+    "file": "voices_ko_lessons_10_14_gentle_slow\\lesson_12\\007_ko_context.webm",
+    "adjusted_status": "passed",
+    "adjusted_reasons": []
+  },
+  {
+    "lesson": 12,
+    "id": "008",
+    "word": "헬스클럽",
+    "target": "헬스클럽",
+    "expected": "이 표현을 천천히 말합니다. 헬스클럽.",
+    "asr": "이 표현을 천천히 말합니다. 헬스클럽.",
+    "duration": 3.2,
+    "target_count": 1,
+    "status": "passed",
+    "file": "voices_ko_lessons_10_14_gentle_slow\\lesson_12\\008_ko_context.webm",
+    "adjusted_status": "passed",
+    "adjusted_reasons": []
+  },
+  {
+    "lesson": 12,
+    "id": "009",
+    "word": "은행",
+    "target": "은행",
+    "expected": "돈을 찾는 은행입니다. 은행. 은행.",
+    "asr": "돈을 찾는 은행입니다. 은행, 은행.",
+    "duration": 3.52,
+    "target_count": 3,
+    "status": "passed",
+    "file": "voices_ko_lessons_10_14_gentle_slow\\lesson_12\\009_ko_context.webm",
+    "adjusted_status": "passed",
+    "adjusted_reasons": []
+  },
+  {
+    "lesson": 12,
+    "id": "010",
+    "word": "돈을 찾다",
+    "target": "돈을 찾다",
+    "expected": "이 표현을 천천히 말합니다. 돈을 찾다.",
+    "asr": "이 표현을 천천히 말합니다. 돈을 찾다.",
+    "duration": 4.0,
+    "target_count": 1,
+    "status": "passed",
+    "file": "voices_ko_lessons_10_14_gentle_slow\\lesson_12\\010_ko_context.webm",
+    "adjusted_status": "passed",
+    "adjusted_reasons": []
+  },
+  {
+    "lesson": 12,
+    "id": "011",
+    "word": "사무실",
+    "target": "사무실",
+    "expected": "회사 사무실입니다. 사무실. 사무실.",
+    "asr": "회사 사무실입니다. 사무실, 사무실.",
+    "duration": 3.84,
+    "target_count": 3,
+    "status": "passed",
+    "file": "voices_ko_lessons_10_14_gentle_slow\\lesson_12\\011_ko_context.webm",
+    "adjusted_status": "passed",
+    "adjusted_reasons": []
+  },
+  {
+    "lesson": 12,
+    "id": "012",
+    "word": "옷장",
+    "target": "옷장",
+    "expected": "이 표현을 천천히 말합니다. 옷장.",
+    "asr": "이 표현을 천천히 말합니다. 옷장",
+    "duration": 3.36,
+    "target_count": 1,
+    "status": "passed",
+    "file": "voices_ko_lessons_10_14_gentle_slow\\lesson_12\\012_ko_context.webm",
+    "adjusted_status": "passed",
+    "adjusted_reasons": []
+  },
+  {
+    "lesson": 12,
+    "id": "013",
+    "word": "보통",
+    "target": "보통",
+    "expected": "이 표현을 천천히 말합니다. 보통.",
+    "asr": "이 표현을 천천히 말합니다. 보통",
+    "duration": 3.84,
+    "target_count": 1,
+    "status": "passed",
+    "file": "voices_ko_lessons_10_14_gentle_slow\\lesson_12\\013_ko_context.webm",
+    "adjusted_status": "passed",
+    "adjusted_reasons": []
+  },
+  {
+    "lesson": 12,
+    "id": "014",
+    "word": "독서",
+    "target": "독서",
+    "expected": "이 표현을 천천히 말합니다. 독서.",
+    "asr": "이 표현을 천천히 말합니다. 독서",
+    "duration": 3.04,
+    "target_count": 1,
+    "status": "passed",
+    "file": "voices_ko_lessons_10_14_gentle_slow\\lesson_12\\014_ko_context.webm",
+    "adjusted_status": "passed",
+    "adjusted_reasons": []
+  },
+  {
+    "lesson": 12,
+    "id": "015",
+    "word": "그래서",
+    "target": "그래서",
+    "expected": "이 표현을 천천히 말합니다. 그래서.",
+    "asr": "이 표현을 천천히 말합니다. 그래서",
+    "duration": 3.2,
+    "target_count": 1,
+    "status": "passed",
+    "file": "voices_ko_lessons_10_14_gentle_slow\\lesson_12\\015_ko_context.webm",
+    "adjusted_status": "passed",
+    "adjusted_reasons": []
+  },
+  {
+    "lesson": 12,
+    "id": "016",
+    "word": "특히",
+    "target": "특히",
+    "expected": "이 표현을 천천히 말합니다. 특히.",
+    "asr": "이 표현을 천천히 말합니다. 특히",
+    "duration": 3.68,
+    "target_count": 1,
+    "status": "passed",
+    "file": "voices_ko_lessons_10_14_gentle_slow\\lesson_12\\016_ko_context.webm",
+    "adjusted_status": "passed",
+    "adjusted_reasons": []
+  },
+  {
+    "lesson": 12,
+    "id": "017",
+    "word": "년",
+    "target": "년",
+    "expected": "이천이십육 년입니다. 년. 년.",
+    "asr": "2026년입니다. 연, 연.",
+    "duration": 2.88,
+    "target_count": 1,
+    "status": "passed",
+    "file": "voices_ko_lessons_10_14_gentle_slow\\lesson_12\\017_ko_context.webm",
+    "adjusted_status": "passed",
+    "adjusted_reasons": []
+  },
+  {
+    "lesson": 12,
+    "id": "018",
+    "word": "전",
+    "target": "전",
+    "expected": "이 표현을 천천히 말합니다. 전.",
+    "asr": "이 표현을 천천히 말합니다. 전",
+    "duration": 2.88,
+    "target_count": 1,
+    "status": "passed",
+    "file": "voices_ko_lessons_10_14_gentle_slow\\lesson_12\\018_ko_context.webm",
+    "adjusted_status": "passed",
+    "adjusted_reasons": []
+  },
+  {
+    "lesson": 12,
+    "id": "019",
+    "word": "근처",
+    "target": "근처",
+    "expected": "이 표현을 천천히 말합니다. 근처.",
+    "asr": "이 표현을 천천히 말합니다. 근처",
+    "duration": 3.2,
+    "target_count": 1,
+    "status": "passed",
+    "file": "voices_ko_lessons_10_14_gentle_slow\\lesson_12\\019_ko_context.webm",
+    "adjusted_status": "passed",
+    "adjusted_reasons": []
+  },
+  {
+    "lesson": 13,
+    "id": "001",
+    "word": "옷차림",
+    "target": "옷차림",
+    "expected": "이 표현을 천천히 말합니다. 옷차림.",
+    "asr": "이 표현을 천천히 말합니다. 옷차림.",
+    "duration": 2.88,
+    "target_count": 1,
+    "status": "passed",
+    "file": "voices_ko_lessons_10_14_gentle_slow\\lesson_13\\001_ko_context.webm",
+    "adjusted_status": "passed",
+    "adjusted_reasons": []
+  },
+  {
+    "lesson": 13,
+    "id": "002",
+    "word": "티셔츠",
+    "target": "티셔츠",
+    "expected": "이 표현을 천천히 말합니다. 티셔츠.",
+    "asr": "이 표현을 천천히 말합니다. 티셔츠",
+    "duration": 4.64,
+    "target_count": 1,
+    "status": "passed",
+    "file": "voices_ko_lessons_10_14_gentle_slow\\lesson_13\\002_ko_context.webm",
+    "adjusted_status": "passed",
+    "adjusted_reasons": []
+  },
+  {
+    "lesson": 13,
+    "id": "003",
+    "word": "청바지",
+    "target": "청바지",
+    "expected": "이 표현을 천천히 말합니다. 청바지.",
+    "asr": "이 표현을 천천히 말합니다. 청바지.",
+    "duration": 4.64,
+    "target_count": 1,
+    "status": "passed",
+    "file": "voices_ko_lessons_10_14_gentle_slow\\lesson_13\\003_ko_context.webm",
+    "adjusted_status": "passed",
+    "adjusted_reasons": []
+  },
+  {
+    "lesson": 13,
+    "id": "004",
+    "word": "치마",
+    "target": "치마",
+    "expected": "이 표현을 천천히 말합니다. 치마.",
+    "asr": "이 표현을 천천히 말합니다. 치마",
+    "duration": 4.32,
+    "target_count": 1,
+    "status": "passed",
+    "file": "voices_ko_lessons_10_14_gentle_slow\\lesson_13\\004_ko_context.webm",
+    "adjusted_status": "passed",
+    "adjusted_reasons": []
+  },
+  {
+    "lesson": 13,
+    "id": "005",
+    "word": "정장",
+    "target": "정장",
+    "expected": "이 표현을 천천히 말합니다. 정장.",
+    "asr": "이 표현을 천천히 말합니다. 정장.",
+    "duration": 3.04,
+    "target_count": 1,
+    "status": "passed",
+    "file": "voices_ko_lessons_10_14_gentle_slow\\lesson_13\\005_ko_context.webm",
+    "adjusted_status": "passed",
+    "adjusted_reasons": []
+  },
+  {
+    "lesson": 13,
+    "id": "006",
+    "word": "운동복",
+    "target": "운동복",
+    "expected": "이 표현을 천천히 말합니다. 운동복.",
+    "asr": "이 표현을 천천히 말합니다. 운동복.",
+    "duration": 2.4,
+    "target_count": 1,
+    "status": "passed",
+    "file": "voices_ko_lessons_10_14_gentle_slow\\lesson_13\\006_ko_context.webm",
+    "adjusted_status": "passed",
+    "adjusted_reasons": []
+  },
+  {
+    "lesson": 13,
+    "id": "007",
+    "word": "매다",
+    "target": "매다",
+    "expected": "이 표현을 천천히 말합니다. 매다.",
+    "asr": "이 표현을 천천히 말합니다. 매다.",
+    "duration": 3.2,
+    "target_count": 1,
+    "status": "passed",
+    "file": "voices_ko_lessons_10_14_gentle_slow\\lesson_13\\007_ko_context.webm",
+    "adjusted_status": "passed",
+    "adjusted_reasons": []
+  },
+  {
+    "lesson": 13,
+    "id": "008",
+    "word": "입다",
+    "target": "입다",
+    "expected": "이 표현을 천천히 말합니다. 입다.",
+    "asr": "이 표현을 천천히 말합니다. 입다.",
+    "duration": 3.2,
+    "target_count": 1,
+    "status": "passed",
+    "file": "voices_ko_lessons_10_14_gentle_slow\\lesson_13\\008_ko_context.webm",
+    "adjusted_status": "passed",
+    "adjusted_reasons": []
+  },
+  {
+    "lesson": 13,
+    "id": "009",
+    "word": "쓰다",
+    "target": "쓰다",
+    "expected": "이 표현을 천천히 말합니다. 쓰다.",
+    "asr": "표현을 천천히 말합니다. 쓰다.",
+    "duration": 3.84,
+    "target_count": 1,
+    "status": "passed",
+    "file": "voices_ko_lessons_10_14_gentle_slow\\lesson_13\\009_ko_context.webm",
+    "adjusted_status": "passed",
+    "adjusted_reasons": []
+  },
+  {
+    "lesson": 13,
+    "id": "010",
+    "word": "신다",
+    "target": "신다",
+    "expected": "신발을 신다입니다. 신다. 신다.",
+    "asr": "신발을 신다입니다. 신다, 신다, 신다.",
+    "duration": 4.64,
+    "target_count": 4,
+    "status": "passed",
+    "file": "voices_ko_lessons_10_14_gentle_slow\\lesson_13\\010_ko_context.webm",
+    "adjusted_status": "passed",
+    "adjusted_reasons": []
+  },
+  {
+    "lesson": 13,
+    "id": "011",
+    "word": "바지",
+    "target": "바지",
+    "expected": "이 표현을 천천히 말합니다. 바지.",
+    "asr": "이 표현을 천천히 말합니다. 바지",
+    "duration": 4.48,
+    "target_count": 1,
+    "status": "passed",
+    "file": "voices_ko_lessons_10_14_gentle_slow\\lesson_13\\011_ko_context.webm",
+    "adjusted_status": "passed",
+    "adjusted_reasons": []
+  },
+  {
+    "lesson": 13,
+    "id": "012",
+    "word": "기차역",
+    "target": "기차역",
+    "expected": "이 표현을 천천히 말합니다. 기차역.",
+    "asr": "이 표현을 천천히 말합니다. 기차역.",
+    "duration": 2.72,
+    "target_count": 1,
+    "status": "passed",
+    "file": "voices_ko_lessons_10_14_gentle_slow\\lesson_13\\012_ko_context.webm",
+    "adjusted_status": "passed",
+    "adjusted_reasons": []
+  },
+  {
+    "lesson": 13,
+    "id": "013",
+    "word": "결혼식",
+    "target": "결혼식",
+    "expected": "이 표현을 천천히 말합니다. 결혼식.",
+    "asr": "이 표현을 천천히 말합니다. 결혼식.",
+    "duration": 2.56,
+    "target_count": 1,
+    "status": "passed",
+    "file": "voices_ko_lessons_10_14_gentle_slow\\lesson_13\\013_ko_context.webm",
+    "adjusted_status": "passed",
+    "adjusted_reasons": []
+  },
+  {
+    "lesson": 13,
+    "id": "014",
+    "word": "아직",
+    "target": "아직",
+    "expected": "이 표현을 천천히 말합니다. 아직.",
+    "asr": "이 표현을 천천히 말합니다. 아직",
+    "duration": 2.4,
+    "target_count": 1,
+    "status": "passed",
+    "file": "voices_ko_lessons_10_14_gentle_slow\\lesson_13\\014_ko_context.webm",
+    "adjusted_status": "passed",
+    "adjusted_reasons": []
+  },
+  {
+    "lesson": 13,
+    "id": "015",
+    "word": "이따가",
+    "target": "이따가",
+    "expected": "이 표현을 천천히 말합니다. 이따가.",
+    "asr": "이 표현을 천천히 말합니다. 이따가...",
+    "duration": 4.96,
+    "target_count": 1,
+    "status": "passed",
+    "file": "voices_ko_lessons_10_14_gentle_slow\\lesson_13\\015_ko_context.webm",
+    "adjusted_status": "passed",
+    "adjusted_reasons": []
+  },
+  {
+    "lesson": 13,
+    "id": "016",
+    "word": "계획",
+    "target": "계획",
+    "expected": "이 표현을 천천히 말합니다. 계획.",
+    "asr": "이 표현을 천천히 말합니다. 계획.",
+    "duration": 3.52,
+    "target_count": 1,
+    "status": "passed",
+    "file": "voices_ko_lessons_10_14_gentle_slow\\lesson_13\\016_ko_context.webm",
+    "adjusted_status": "passed",
+    "adjusted_reasons": []
+  },
+  {
+    "lesson": 13,
+    "id": "017",
+    "word": "이유",
+    "target": "이유",
+    "expected": "이 표현을 천천히 말합니다. 이유.",
+    "asr": "이 표현을 천천히 말합니다. 이유.",
+    "duration": 3.84,
+    "target_count": 1,
+    "status": "passed",
+    "file": "voices_ko_lessons_10_14_gentle_slow\\lesson_13\\017_ko_context.webm",
+    "adjusted_status": "passed",
+    "adjusted_reasons": []
+  },
+  {
+    "lesson": 13,
+    "id": "018",
+    "word": "떡",
+    "target": "떡",
+    "expected": "먹는 떡입니다. 떡. 떡.",
+    "asr": "먹는 떡입니다 떡 떡",
+    "duration": 3.36,
+    "target_count": 3,
+    "status": "passed",
+    "file": "voices_ko_lessons_10_14_gentle_slow\\lesson_13\\018_ko_context.webm",
+    "adjusted_status": "passed",
+    "adjusted_reasons": []
+  },
+  {
+    "lesson": 13,
+    "id": "019",
+    "word": "채소",
+    "target": "채소",
+    "expected": "이 표현을 천천히 말합니다. 채소.",
+    "asr": "양의 표현을 천천히 말합니다. 채소.",
+    "duration": 2.88,
+    "target_count": 1,
+    "status": "passed",
+    "file": "voices_ko_lessons_10_14_gentle_slow\\lesson_13\\019_ko_context.webm",
+    "adjusted_status": "passed",
+    "adjusted_reasons": []
+  },
+  {
+    "lesson": 13,
+    "id": "020",
+    "word": "너무",
+    "target": "너무",
+    "expected": "이 표현을 천천히 말합니다. 너무.",
+    "asr": "이 표현을 천천히 말합니다. 너무.",
+    "duration": 3.84,
+    "target_count": 1,
+    "status": "passed",
+    "file": "voices_ko_lessons_10_14_gentle_slow\\lesson_13\\020_ko_context.webm",
+    "adjusted_status": "passed",
+    "adjusted_reasons": []
+  },
+  {
+    "lesson": 13,
+    "id": "021",
+    "word": "인터넷",
+    "target": "인터넷",
+    "expected": "빠른 인터넷입니다. 인터넷. 인터넷.",
+    "asr": "빠른 인터넷입니다. 인터넷. 인터넷.",
+    "duration": 4.48,
+    "target_count": 3,
+    "status": "passed",
+    "file": "voices_ko_lessons_10_14_gentle_slow\\lesson_13\\021_ko_context.webm",
+    "adjusted_status": "passed",
+    "adjusted_reasons": []
+  },
+  {
+    "lesson": 13,
+    "id": "022",
+    "word": "싸다",
+    "target": "싸다",
+    "expected": "이 표현을 천천히 말합니다. 싸다.",
+    "asr": "이 표현을 천천히 말합니다. 싸다.",
+    "duration": 3.52,
+    "target_count": 1,
+    "status": "passed",
+    "file": "voices_ko_lessons_10_14_gentle_slow\\lesson_13\\022_ko_context.webm",
+    "adjusted_status": "passed",
+    "adjusted_reasons": []
+  },
+  {
+    "lesson": 14,
+    "id": "001",
+    "word": "크다 (커요)",
+    "target": "커요",
+    "expected": "이 표현은 크다, 커요입니다. 크다, 커요.",
+    "asr": "이 표현은 크다 커요 입니다 크다 커요",
+    "duration": 5.44,
+    "target_count": 2,
+    "status": "passed",
+    "file": "voices_ko_lessons_10_14_gentle_slow\\lesson_14\\001_ko_context.webm",
+    "adjusted_status": "passed",
+    "adjusted_reasons": []
+  },
+  {
+    "lesson": 14,
+    "id": "002",
+    "word": "작다 (작아요)",
+    "target": "작아요",
+    "expected": "이 표현은 작다, 작아요입니다. 작다, 작아요.",
+    "asr": "이 표현은 작다, 작아요입니다. 작다, 작아요.",
+    "duration": 5.44,
+    "target_count": 2,
+    "status": "passed",
+    "file": "voices_ko_lessons_10_14_gentle_slow\\lesson_14\\002_ko_context.webm",
+    "adjusted_status": "passed",
+    "adjusted_reasons": []
+  },
+  {
+    "lesson": 14,
+    "id": "003",
+    "word": "넓다 (넓어요)",
+    "target": "넓어요",
+    "expected": "이 표현은 넓다, 넓어요입니다. 넓다, 넓어요.",
+    "asr": "이 표현은 넓다, 넓어요입니다. 넓다, 넓어요.",
+    "duration": 5.28,
+    "target_count": 2,
+    "status": "passed",
+    "file": "voices_ko_lessons_10_14_gentle_slow\\lesson_14\\003_ko_context.webm",
+    "adjusted_status": "passed",
+    "adjusted_reasons": []
+  },
+  {
+    "lesson": 14,
+    "id": "004",
+    "word": "좁다 (좁아요)",
+    "target": "좁아요",
+    "expected": "이 표현은 좁다, 좁아요입니다. 좁다, 좁아요.",
+    "asr": "이 표현은 좁다, 좁아요입니다. 좁다, 좁아요.",
+    "duration": 6.24,
+    "target_count": 2,
+    "status": "passed",
+    "file": "voices_ko_lessons_10_14_gentle_slow\\lesson_14\\004_ko_context.webm",
+    "adjusted_status": "passed",
+    "adjusted_reasons": []
+  },
+  {
+    "lesson": 14,
+    "id": "005",
+    "word": "높다 (높아요)",
+    "target": "높아요",
+    "expected": "이 표현은 높다, 높아요입니다. 높다, 높아요.",
+    "asr": "이 표현은 높다, 높아요입니다. 높다, 높아요.",
+    "duration": 4.16,
+    "target_count": 2,
+    "status": "passed",
+    "file": "voices_ko_lessons_10_14_gentle_slow\\lesson_14\\005_ko_context.webm",
+    "adjusted_status": "passed",
+    "adjusted_reasons": []
+  },
+  {
+    "lesson": 14,
+    "id": "006",
+    "word": "낮다 (낮아요)",
+    "target": "낮아요",
+    "expected": "이 표현은 낮다, 낮아요입니다. 낮다, 낮아요.",
+    "asr": "이 표현은 낮다, 낮아요입니다. 낮다, 낮아요.",
+    "duration": 4.0,
+    "target_count": 2,
+    "status": "passed",
+    "file": "voices_ko_lessons_10_14_gentle_slow\\lesson_14\\006_ko_context.webm",
+    "adjusted_status": "passed",
+    "adjusted_reasons": []
+  },
+  {
+    "lesson": 14,
+    "id": "007",
+    "word": "길다 (길어요)",
+    "target": "길어요",
+    "expected": "이 표현은 길다, 길어요입니다. 길다, 길어요.",
+    "asr": "이 표현은 길다 길어요 입니다 길다 길어요",
+    "duration": 4.8,
+    "target_count": 2,
+    "status": "passed",
+    "file": "voices_ko_lessons_10_14_gentle_slow\\lesson_14\\007_ko_context.webm",
+    "adjusted_status": "passed",
+    "adjusted_reasons": []
+  },
+  {
+    "lesson": 14,
+    "id": "008",
+    "word": "짧다 (짧아요)",
+    "target": "짧아요",
+    "expected": "이 표현은 짧다, 짧아요입니다. 짧다, 짧아요.",
+    "asr": "이 표현은 짧다, 짧아요 입니다 짧다, 짧아요",
+    "duration": 5.28,
+    "target_count": 2,
+    "status": "passed",
+    "file": "voices_ko_lessons_10_14_gentle_slow\\lesson_14\\008_ko_context.webm",
+    "adjusted_status": "passed",
+    "adjusted_reasons": []
+  },
+  {
+    "lesson": 14,
+    "id": "009",
+    "word": "비싸다 (비싸요)",
+    "target": "비싸요",
+    "expected": "이 표현은 비싸다, 비싸요입니다. 비싸다, 비싸요.",
+    "asr": "이 표현은 비싸다, 비싸요입니다. 비싸다, 비싸요.",
+    "duration": 5.28,
+    "target_count": 2,
+    "status": "passed",
+    "file": "voices_ko_lessons_10_14_gentle_slow\\lesson_14\\009_ko_context.webm",
+    "adjusted_status": "passed",
+    "adjusted_reasons": []
+  },
+  {
+    "lesson": 14,
+    "id": "010",
+    "word": "싸다 (싸요)",
+    "target": "싸요",
+    "expected": "이 표현은 싸다, 싸요입니다. 싸다, 싸요.",
+    "asr": "이 표현은 싸다, 싸요입니다. 싸다, 싸요.",
+    "duration": 3.68,
+    "target_count": 2,
+    "status": "passed",
+    "file": "voices_ko_lessons_10_14_gentle_slow\\lesson_14\\010_ko_context.webm",
+    "adjusted_status": "passed",
+    "adjusted_reasons": []
+  },
+  {
+    "lesson": 14,
+    "id": "011",
+    "word": "편하다 (편해요)",
+    "target": "편해요",
+    "expected": "이 표현은 편하다, 편해요입니다. 편하다, 편해요.",
+    "asr": "이 표현은 편하다 편해요 입니다 편하다 편해요",
+    "duration": 9.44,
+    "target_count": 2,
+    "status": "passed",
+    "file": "voices_ko_lessons_10_14_gentle_slow\\lesson_14\\011_ko_context.webm",
+    "adjusted_status": "passed",
+    "adjusted_reasons": []
+  },
+  {
+    "lesson": 14,
+    "id": "012",
+    "word": "불편하다 (불편해요)",
+    "target": "불편해요",
+    "expected": "이 표현은 불편하다, 불편해요입니다. 불편하다, 불편해요.",
+    "asr": "이 표현은 불편하다, 불편해요입니다. 불편하다, 불편해요.",
+    "duration": 5.92,
+    "target_count": 2,
+    "status": "passed",
+    "file": "voices_ko_lessons_10_14_gentle_slow\\lesson_14\\012_ko_context.webm",
+    "adjusted_status": "passed",
+    "adjusted_reasons": []
+  },
+  {
+    "lesson": 14,
+    "id": "013",
+    "word": "수박",
+    "target": "수박",
+    "expected": "이 표현을 천천히 말합니다. 수박.",
+    "asr": "이 표현을 천천히 말합니다. 수박.",
+    "duration": 3.2,
+    "target_count": 1,
+    "status": "passed",
+    "file": "voices_ko_lessons_10_14_gentle_slow\\lesson_14\\013_ko_context.webm",
+    "adjusted_status": "passed",
+    "adjusted_reasons": []
+  },
+  {
+    "lesson": 14,
+    "id": "014",
+    "word": "머리",
+    "target": "머리",
+    "expected": "이 표현을 천천히 말합니다. 머리.",
+    "asr": "이 표현을 천천히 말합니다. 머리",
+    "duration": 4.32,
+    "target_count": 1,
+    "status": "passed",
+    "file": "voices_ko_lessons_10_14_gentle_slow\\lesson_14\\014_ko_context.webm",
+    "adjusted_status": "passed",
+    "adjusted_reasons": []
+  },
+  {
+    "lesson": 14,
+    "id": "015",
+    "word": "찾다",
+    "target": "찾다",
+    "expected": "이 표현을 천천히 말합니다. 찾다.",
+    "asr": "이 표현을 천천히 말합니다. 찾다.",
+    "duration": 3.2,
+    "target_count": 1,
+    "status": "passed",
+    "file": "voices_ko_lessons_10_14_gentle_slow\\lesson_14\\015_ko_context.webm",
+    "adjusted_status": "passed",
+    "adjusted_reasons": []
+  },
+  {
+    "lesson": 14,
+    "id": "016",
+    "word": "귀엽다 (귀여워요)",
+    "target": "귀여워요",
+    "expected": "이 표현은 귀엽다, 귀여워요입니다. 귀엽다, 귀여워요.",
+    "asr": "이 표현은 귀엽다, 귀여워요입니다. 귀엽다, 귀여워요.",
+    "duration": 5.92,
+    "target_count": 2,
+    "status": "passed",
+    "file": "voices_ko_lessons_10_14_gentle_slow\\lesson_14\\016_ko_context.webm",
+    "adjusted_status": "passed",
+    "adjusted_reasons": []
+  },
+  {
+    "lesson": 14,
+    "id": "017",
+    "word": "잠",
+    "target": "잠",
+    "expected": "잠을 자요. 잠. 잠.",
+    "asr": "잠을 자요. 잠. 잠.",
+    "duration": 2.24,
+    "target_count": 3,
+    "status": "passed",
+    "file": "voices_ko_lessons_10_14_gentle_slow\\lesson_14\\017_ko_context.webm",
+    "adjusted_status": "passed",
+    "adjusted_reasons": []
+  },
+  {
+    "lesson": 14,
+    "id": "018",
+    "word": "꿈",
+    "target": "꿈",
+    "expected": "이 표현을 천천히 말합니다. 꿈.",
+    "asr": "이 표현을 천천히 말합니다. 꿈.",
+    "duration": 2.72,
+    "target_count": 1,
+    "status": "passed",
+    "file": "voices_ko_lessons_10_14_gentle_slow\\lesson_14\\018_ko_context.webm",
+    "adjusted_status": "passed",
+    "adjusted_reasons": []
+  },
+  {
+    "lesson": 14,
+    "id": "019",
+    "word": "점원",
+    "target": "점원",
+    "expected": "이 표현을 천천히 말합니다. 점원.",
+    "asr": "이 표현을 천천히 말합니다. 점원.",
+    "duration": 2.88,
+    "target_count": 1,
+    "status": "passed",
+    "file": "voices_ko_lessons_10_14_gentle_slow\\lesson_14\\019_ko_context.webm",
+    "adjusted_status": "passed",
+    "adjusted_reasons": []
+  },
+  {
+    "lesson": 14,
+    "id": "020",
+    "word": "손님",
+    "target": "손님",
+    "expected": "이 표현을 천천히 말합니다. 손님.",
+    "asr": "이 표현을 천천히 말합니다. 손님.",
+    "duration": 2.56,
+    "target_count": 1,
+    "status": "passed",
+    "file": "voices_ko_lessons_10_14_gentle_slow\\lesson_14\\020_ko_context.webm",
+    "adjusted_status": "passed",
+    "adjusted_reasons": []
+  },
+  {
+    "lesson": 14,
+    "id": "021",
+    "word": "사이즈",
+    "target": "사이즈",
+    "expected": "이 표현을 천천히 말합니다. 사이즈.",
+    "asr": "이 표현을 천천히 말합니다. 사이즈.",
+    "duration": 3.2,
+    "target_count": 1,
+    "status": "passed",
+    "file": "voices_ko_lessons_10_14_gentle_slow\\lesson_14\\021_ko_context.webm",
+    "adjusted_status": "passed",
+    "adjusted_reasons": []
+  },
+  {
+    "lesson": 14,
+    "id": "022",
+    "word": "죄송하다 (죄송해요)",
+    "target": "죄송해요",
+    "expected": "이 표현은 죄송하다, 죄송해요입니다. 죄송하다, 죄송해요.",
+    "asr": "이 표현은 죄송하다, 죄송해요입니다. 죄송하다, 죄송해요.",
+    "duration": 5.44,
+    "target_count": 2,
+    "status": "passed",
+    "file": "voices_ko_lessons_10_14_gentle_slow\\lesson_14\\022_ko_context.webm",
+    "adjusted_status": "passed",
+    "adjusted_reasons": []
+  },
+  {
+    "lesson": 14,
+    "id": "023",
+    "word": "잠시",
+    "target": "잠시",
+    "expected": "이 표현을 천천히 말합니다. 잠시.",
+    "asr": "이 표현을 천천히 말합니다. 잠시",
+    "duration": 7.2,
+    "target_count": 1,
+    "status": "passed",
+    "file": "voices_ko_lessons_10_14_gentle_slow\\lesson_14\\023_ko_context.webm",
+    "adjusted_status": "passed",
+    "adjusted_reasons": []
+  },
+  {
+    "lesson": 14,
+    "id": "024",
+    "word": "기다리다 (기다려요)",
+    "target": "기다려요",
+    "expected": "이 표현은 기다리다, 기다려요입니다. 기다리다, 기다려요.",
+    "asr": "이 표현은 기다리다, 기다려요입니다. 기다리다, 기다려요.",
+    "duration": 3.84,
+    "target_count": 2,
+    "status": "passed",
+    "file": "voices_ko_lessons_10_14_gentle_slow\\lesson_14\\024_ko_context.webm",
+    "adjusted_status": "passed",
+    "adjusted_reasons": []
+  },
+  {
+    "lesson": 14,
+    "id": "025",
+    "word": "보이다",
+    "target": "보이다",
+    "expected": "이 표현을 천천히 말합니다. 보이다.",
+    "asr": "이 표현을 천천히 말합니다. 보이다.",
+    "duration": 3.04,
+    "target_count": 1,
+    "status": "passed",
+    "file": "voices_ko_lessons_10_14_gentle_slow\\lesson_14\\025_ko_context.webm",
+    "adjusted_status": "passed",
+    "adjusted_reasons": []
+  },
+  {
+    "lesson": 14,
+    "id": "026",
+    "word": "가격",
+    "target": "가격",
+    "expected": "이 표현을 천천히 말합니다. 가격.",
+    "asr": "이 표현을 천천히 말합니다. 가격.",
+    "duration": 2.56,
+    "target_count": 1,
+    "status": "passed",
+    "file": "voices_ko_lessons_10_14_gentle_slow\\lesson_14\\026_ko_context.webm",
+    "adjusted_status": "passed",
+    "adjusted_reasons": []
   }
 ]

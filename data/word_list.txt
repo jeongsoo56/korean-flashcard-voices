@@ -1,5 +1,3 @@
-물론이에요. **1과부터 9과까지** 복사/붙여넣기 편하게 한 번에 정리했어요.
-형식은 **베트남어 - 한국어**입니다.
 
 ```text
 [1과]
@@ -333,4 +331,149 @@ thú vị - 재미있다 (재미있어요)
 chúng ta / chúng tôi - 우리
 chơi - 놀다 (놀아요)
 tâm trạng - 기분
-```
+
+
+
+[10과]
+cuộc hẹn - 약속
+thời gian / giờ - 시간
+đặc biệt - 특별하다 (특별해요)
+việc / công việc - 일
+khác - 다르다 (달라요)
+buổi hòa nhạc - 콘서트
+bóng đá - 축구
+trận đấu - 경기
+bóng rổ - 농구
+nước uống - 음료수
+leo núi - 등산
+làm - 하다
+lời - 말
+sông Hàn - 한강
+món ăn - 음식
+giày thể thao - 운동화
+kỳ nghỉ - 방학
+cơm trộn - 비빔밥
+câu cá - 낚시
+taekwondo - 태권도
+tất cả - 다 (모두)
+đi bộ - 걷다 (걸어요)
+trung tâm mua sắm - 쇼핑몰
+nội dung - 내용
+gọi chú (gọi là) - 메모 (메모해요)
+tuần (tuần sau) - 주 (다음 주)
+sau (tuần sau) - 다음
+K-POP - 케이팝 (K-POP)
+tuần (tuần sau) - 주 (다음 주)
+
+
+[1B 1과]
+món ăn, vị - 음식, 맛
+bao nhiêu - 얼마나
+canh kimchi, canh tương đậu - 김치찌개, 된장찌개
+mì lạnh - 냉면
+cơm chiên - 볶음밥
+miến trộn - 잡채
+bánh gạo cay - 떡볶이
+gọi món, đặt hàng - 주문하다
+quà tặng - 선물
+nhận - 받다
+nhất - 가장
+động vật - 동물
+tennis - 테니스
+xin lỗi, cảm thấy có lỗi - 미안하다
+một mình - 혼자
+chơi (thể thao như tennis), đánh - 치다
+lái xe - 운전
+thịt - 고기
+hamburge - 햄버거
+cá - 생선
+sushi - 초밥
+tôi - 내
+cái, đồ vật, việc - 것
+một tuần - 일주일
+một chút - 조금
+nhưng - 하지만
+tại sao - 왜
+
+[1B 2과]
+sở thích - 취미
+tranh, bức vẽ - 그림
+vẽ - 그리다
+bài hát - 노래
+đàn guitar - 기타
+báo - 신문
+mượn - 빌리다
+phòng gym - 헬스클럽
+ngân hàng - 은행
+rút tiền - 돈을 찾다
+văn phòng - 사무실
+tủ quần áo - 옷장
+thường, bình thường - 보통
+đọc sách - 독서
+vì vậy, cho nên - 그래서
+đặc biệt - 특히
+năm - 년
+trước - 전
+gần, khu vực gần - 근처
+
+
+
+
+[1B 3과]
+cách ăn mặc - 옷차림
+áo thun - 티셔츠
+quần jean - 청바지
+váy - 치마
+đồ vest, đồ công sở - 정장
+đồ thể thao - 운동복
+đeo, thắt (cà vạt, dây giày...) - 매다
+mặc - 입다
+đội, đeo (mũ, kính...) - 쓰다
+đi (giày, dép, tất...) - 신다
+quần - 바지
+ga tàu - 기차역
+lễ cưới - 결혼식
+vẫn chưa - 아직
+lát nữa - 이따가
+kế hoạch - 계획
+lý do - 이유
+bánh gạo - 떡
+rau củ - 채소
+quá, rất - 너무
+internet rẻ - 인터넷
+rẻ - 싸다
+
+
+
+
+[1B 4과]
+to, lớn - 크다 (커요)
+nhỏ - 작다 (작아요)
+rộng - 넓다 (넓어요)
+hẹp - 좁다 (좁아요)
+cao - 높다 (높아요)
+thấp - 낮다 (낮아요)
+dài - 길다 (길어요)
+ngắn - 짧다 (짧아요)
+đắt - 비싸다 (비싸요)
+rẻ - 싸다 (싸요)
+thoải mái, tiện - 편하다 (편해요)
+bất tiện - 불편하다 (불편해요)
+dưa hấu - 수박
+đầu, tóc - 머리
+tìm - 찾다
+dễ thương - 귀엽다 (귀여워요)
+giấc ngủ - 잠
+giấc mơ - 꿈
+nhân viên cửa hàng - 점원
+khách - 손님
+kích cỡ - 사이즈
+xin lỗi - 죄송하다 (죄송해요)
+một lát - 잠시
+chờ, đợi - 기다리다 (기다려요)
+nhìn thấy - 보이다
+giá cả - 가격
+
+
+
+

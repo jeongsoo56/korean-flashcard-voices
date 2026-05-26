@@ -1,36 +1,18 @@
 # Korean Flashcard Voices
 
-Public WebM/Opus Korean audio files for flashcard study.
+Korean-only pronunciation audio for flashcard study, generated as compressed WebM/Opus files.
 
-## Mobile Download
+- Total files: 437
+- Lessons: 01-14
+- File pattern: `voices/lesson_XX/001_??_ko.webm`
+- Index with mobile-friendly direct links: [INDEX.md](INDEX.md)
+- Machine-readable metadata: [manifest.json](manifest.json)
 
-- Open `INDEX.md` on GitHub and tap a `Raw download` link.
-- Each file is a small `.webm` audio file and should download or play directly on mobile browsers.
-- Folder pattern: `voices/lesson_01/001_??_ko.webm`.
-- Filename pattern: `{card-number}_{korean-word}_ko.webm`.
+Example direct download:
 
-## Contents
+[voices/lesson_01/001_??_ko.webm](https://raw.githubusercontent.com/jeongsoo56/korean-flashcard-voices/main/voices/lesson_01/001_%EB%82%98%EB%9D%BC_ko.webm)
 
-- Lessons: 1-9
-- Korean audio files: 314
-- Format: WebM container, Opus codec
-- Source word list: `data/word_list.txt`
-- QA report: `reports/qa_asr_report_all.json`
-- Adjusted QA report: `reports/qa_asr_report_adjusted.json`
+QA notes:
 
-## Quick Links
-
-- [Lesson 01](INDEX.md#lesson-01)
-- [Lesson 02](INDEX.md#lesson-02)
-- [Lesson 03](INDEX.md#lesson-03)
-- [Lesson 04](INDEX.md#lesson-04)
-- [Lesson 05](INDEX.md#lesson-05)
-- [Lesson 06](INDEX.md#lesson-06)
-- [Lesson 07](INDEX.md#lesson-07)
-- [Lesson 08](INDEX.md#lesson-08)
-- [Lesson 09](INDEX.md#lesson-09)
-
-## Direct Index
-
-- [All audio links](INDEX.md)
-- [Machine-readable manifest](manifest.json)
+- ASR QA report is in `reports/qa_asr_report_adjusted.json`.
+- `passed_as_alias` means Whisper wrote an equivalent spelling, such as `K-POP` for `???`.
